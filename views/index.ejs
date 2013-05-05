@@ -46,6 +46,11 @@
             			type: "string",
             			friendly: "Hair",
             			},
+            		bail: {
+            			index: 7,
+            			type: "number",
+            			friendly: "Bail"
+            			},
             		fines: {
             			index: 8,
             			type: "number",
@@ -82,10 +87,16 @@
 
 <br />
 		<div class="clearfix lead-questions-wrapper">	
-				<img class="left" src="http://www.co.yamhill.or.us/sheriff/images/jail_outside_sm.jpg">
+				<img class="left span4" src="http://www.co.yamhill.or.us/sheriff/images/jail_outside_sm.jpg">
 
-				<div class="left lead-questions">
-					<p class="lead">Find out who's in the Yamhill County Jail now, why they're there, and how much it will cost them to get out.</p> 
+				<div class="left lead-questions span4">
+					<p class="lead center">Find out who's in the Yamhill County Jail now, why they're there, and how much it will cost them to get out.</p> 
+				</div>
+
+				<!--replace 186 below with actual inmate number from json -->
+				<div id="inmate-number" class=" lead-questions span4">
+					<p class="lead center"><strong>186</strong></p>
+					<p class="lead center">inmates today</p>
 				</div>
 		</div>
 		
