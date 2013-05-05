@@ -7,7 +7,8 @@ var express = require('express')
   , routes = require('./routes')
   , user = require('./routes/user')
   , http = require('http')
-  , path = require('path');
+  , path = require('path')
+  , spawn = require('child_process').spawn;  
 
 var app = express();
 
@@ -29,6 +30,18 @@ if ('development' == app.get('env')) {
 
 app.get('/', routes.index);
 app.get('/users', user.list);
+
+app.get('/inmates.json', function(req, res) {
+	res.sendfile('./data/all.json');
+});
+
+var url_base = 'http://www.co.yamhill.or.us/sheriff/inmates/'
+app.get('/update', function(req,res) {
+	var scrape = spawn('node ./scrape.js');
+	scrape.on('exit', function(code) {
+		res.json(code);
+	});
+});
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));
