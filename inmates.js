@@ -21,7 +21,7 @@ inmateScraper.fields = new Array(
 		'scheduled_release_date'
 	);
 
-inmateScraper.srcDir = '/tmp/src/';
+inmateScraper.srcDir = './tmp/';
 
 inmateScraper.inmateUrlBase = 'http://www.co.yamhill.or.us/sheriff/inmates/';
 
@@ -29,8 +29,8 @@ inmateScraper.refreshSrc = function() {
 
 	var srcDir = inmateScraper.srcDir;
 
-	if ( fs.existsSync( srcDir ) )
-		var ret = fs.mkdirSync(srcDir);
+	if ( ! fs.existsSync( srcDir ) )
+		fs.mkdirSync(srcDir);
 
 	request( this.inmateUrlBase+'icurrent.htm',function( error, response, body ){
 		 
@@ -176,3 +176,6 @@ inmateScraper.inmatesProfileTableAsJson = function( html ) {
 
 exports.readAsJson = inmateScraper.readAsJson;
 exports.refreshSrc = inmateScraper.refreshSrc;
+
+if ( args[2] == 'refresh-src' )
+	inmateScraper.refreshSrc();
