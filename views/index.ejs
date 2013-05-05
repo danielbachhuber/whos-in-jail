@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Yamhill County Jail Inmates</title>
+	<link rel="stylesheet" href="css/styles.css"/>
+	<link rel="stylesheet" href="css/bootstrap.css"/>
+
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script src="js/bootstrap.js"></script>
+	<script>
+		jQuery(document).ready(function(){
+			jQuery(".collapse").collapse();
+		});
+	</script>
+
+</head>
+
+<body>
+
+<div class="wrapper">
+
+	<h1 class="center">Yamhill County Jail Inmates</h1>
+
+<br />
+		<div class="clearfix lead-questions-wrapper">	
+				<img class="left" src="http://www.co.yamhill.or.us/sheriff/images/jail_outside_sm.jpg">
+
+				<div class="left lead-questions">
+					<p class="lead">Find out who's in the Yamhill County Jail now, why they're there, and how much it will cost them to get out.</p> 
+				</div>
+		</div>
+		
+<br />
+
+		<div>
+			<p class="muted center">Click on the table headings to sort.</p>
+		</div>
+
+<table class="table table-striped table-bordered table-hover table-condensed center">
+	<tr>
+		<th>Name</th>
+		<th>Charge</th>
+		<th>Bail</th>
+		<th>Booking Date</th>
+		<th>Release Date</th>
+	</tr>
+	<tr>
+		<td>inmate name</td>
+		<td>charge goes here</td>
+		<td>bail amount</td>
+		<td>bdate goes here</td>
+		<td>rdate goes here</td>
+	</tr>
+	<tr>
+		<td>inmate name</td>
+		<td>charge goes here</td>
+		<td>bail amount</td>
+		<td>bdate goes here</td>
+		<td>rdate goes here</td>
+	</tr>
+</table>
+
+<p class="muted text-center">Data from the <a href="http://www.co.yamhill.or.us/sheriff/inmates/icurrent.htm">Yamhill County Jail.</a></p>
+
+<hr>
+	
+	<div class="well">
+		<h3 class="text-center">What Do the Charges Mean?</h3>
+		<p class="muted center"><a href="http://www.co.washington.or.us/Sheriff/Jail/abbrev.cfm">Abbreviation explanations</a></p>
+	</div>
+<br />
+	<!-- this is where I put in the stuff from the Bootstrap site -->
+
+	<div class="accordion" id="accordion2">
+		
+		<div class="accordion-group">	
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+					Violent Crimes
+				</a>
+			</div>
+			
+				<div id="collapseOne" class="accordion-body collapse in">
+				<div class="accordion-inner">
+						<p><strong>Murder:</strong> The willful (non-negligent) killing of one human being by another.</p>
+						<p><strong>Negligent Homicide:</strong> The killing of another person through gross negligence.</p>
+						<p><strong>Simple Assault:</strong> Assaults which are limited to the use of physical force and result in little or no injury to the victim.</p>
+						<p><strong>Robbery:</strong> The taking or attempting to take anything of value from a person or persons by force or threat of force.</p>
+						<p><strong>Willful Murder and Non-Negligent Manslaughter:</strong> The willful (non-negligent) killing of one human being by another.</p>
+				</div>	
+				</div>
+		</div>
+		
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+					Sexual Crimes
+				</a>
+			</div>
+		
+				<div id="collapseTwo" class="accordion-body collapse in">
+				<div class="accordion-inner">
+						<p><strong>Rape:</strong> The carnal knowledge of a male or female, forcibly and against his or her will. (In January 2012, the U.S. Department of Justice updated the definition of rape to include male victims.)</p>
+						<p><strong>Sex Crimes:</strong> Covers offenses such as statutory rape, contributing to the sexual delinquency of a minor, non-forcible rape, incest, molest, indecent exposure, forcible and non-forcible sodomy, obscene phone calls. (Does not include forcible rape, or prostitution).</p>
+						<p><strong>Prostitution:</strong> Included in this classification are sex offenses of a commercialized nature.</p>
+				</div>
+				</div>
+		</div>
+
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+					Property Crimes
+				</a>
+			</div>
+
+				<div id="collapseThree" class="accordion-body collapse in">
+				<div class="accordion-inner">
+						<p><strong>Arson:</strong> Any willful burning or attempt to burn a building, motor vehicle, aircraft or personal property of another.</p>
+						<p><strong>Burglary:</strong> The unlawful entry of a structure (both residential and non-residential) with intent to commit a theft.</p>
+						<p><strong>Larceny:</strong> The unlawful taking of property from the possession of another. Includes pickpocket, pursesnatch, shoplift and bike theft. (Note: Theft from Auto has been separated from the Larceny category to more easily track and identify where these crimes occur. Theft from Auto remains a Larceny.)</p>
+						<p><strong>Motor Vehicle Theft:</strong> The theft or attempted theft of a motor vehicle; includes motorcycles.</p>
+						<p><strong>Pursesnatch:</strong> To snatch a purse from the physical control of another. (If force is directed or used against the victim, the matter becomes a robbery).</p>
+						<p><strong>Stolen Property Offenses:</strong> Included in this classification are all offenses of buying, receiving and possessing stolen property, as well as all attempts to commit any of theses offenses.</p>
+						<p><strong>Theft From Auto:</strong> The unlawful taking of motor vehicle contents or parts. Note: Theft from Auto (Car Prowl) is a Larceny. It has been separated from the Larceny category to more easily identify where these crimes occur.</p>
+						<p><strong>Vandalism:</strong> Consists of the willful destruction, or defacement of property.</p>
+				</div>
+				</div>
+		</div>
+
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+					Alcohol- and Drug-Related Crimes
+				</a>
+			</div>
+
+				<div id="collapseFour" class="accordion-body collapse in">
+				<div class="accordion-inner">
+						<p><strong>Drug Laws:</strong> Included are all violations of state and local laws, specifically those related to the unlawful possession, sale, use, growing, manufacturing and making of illegal drugs.</p>
+						<p><strong>Driving Under the Influence of Intoxicants (DUII):</strong> Driving or operating any vehicle while under the influence of liquor or drugs.</p>
+						<p><strong>Liquor Laws:</strong> With the exception of Driving Under the Influence, all liquor law violations, state or local, are placed in this classification.</p>
+				</div>
+				</div>
+		</div>
+
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
+					Family Crimes
+				</a>
+			</div>
+
+				<div id="collapseFive" class="accordion-body collapse in">
+				<div class="accordion-inner">
+						<p><strong>Family Offenses:</strong> Included here are offenses such as abandonment, neglect of children, custodial interference and non-support. (Physical abuse would be reported as an assault.)</p>
+				</div>
+				</div>
+		</div>
+
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+					Other Crimes
+				</a>
+			</div>
+
+				<div id="collapseSix" class="accordion-body collapse in">
+				<div class="accordion-inner">
+						<p><strong>Disorderly Conduct:</strong> In this classification are placed all offenses of committing a breach of the peace.</p>
+						<p><strong>Embezzlement:</strong> Misappropriation of money or property entrusted to one's care.</p>
+						<p><strong>Extortion:</strong> The use of fear of death, injury, property loss, reputation, etc. to induce or compel another to deliver property or perform some act or omission.</p>
+						<p><strong>Forgery (also Forgery/Counterfeiting):</strong> Forgery and counterfeiting are treated as allied offenses. In this classification are placed all offenses dealing with the making, altering or possessing, with intent to defraud, anything false in the semblance of that which is true.</p>
+						<p><strong>Fraud:</strong> Fraudulent conversion and obtaining money or property by false pretenses.</p>
+						<p><strong>Fugitives:</strong> This category covers arrests made for other agencies and may be for: Parole/Probation violation, AWOL (absence without leave) from a penal institution, etc.</p>
+						<p><strong>Gambling:</strong> All offenses which relate to promoting, permitting or engaging in gambling are included in this category.</p>
+						<p><strong>Kidnapping:</strong> The interference with another person's liberty without consent or legal authority.</p>
+						<p><strong>Miscellaneous Traffic Crimes:</strong> Serious traffic offenses which are classified as a misdemeanor or felony as defined by the Oregon Motor Vehicle Code.</p>
+						<p><strong>Weapons Regulation Laws:</strong> Deals with weapon offenses which are regulatory in nature, such as: furnishing a deadly weapon to a minor; ex-convict or alien in possession of a firearm.</p>
+				</div>
+				</div>
+		</div>
+
+		<div class="accordion-group">
+			<div class="accordion-heading">
+				<a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+					Miscellaneous Causes for Custody
+				</a>
+			</div>
+
+				<div id="collapseSeven" class="accordion-body collapse in">
+				<div class="accordion-inner">
+						<p><strong>Protective Custody:</strong> The custody of persons for detoxification, mental holds, material witness or protective custody. Examples: transport of an intoxicated subject to the local detoxification center; taking a child into protective custody, pending further investigation of the child's care and welfare.</p>
+						<p><strong>Warrants:</strong> Includes service of warrants of arrest and related papers for Yamhill County, as well as all other jurisdictions within the United States.</p>
+				</div>
+				</div>
+		</div>
+
+	</div>
+
+<p class="muted center">Definitions from the <a href="http://www.portlandoregon.gov/police/article/28509">Portland Police Bureau</a></p>
+	
+</div>
+
+</body>
+
+</html>
