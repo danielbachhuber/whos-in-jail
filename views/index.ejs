@@ -5,12 +5,40 @@
 	<title>Yamhill County Jail Inmates</title>
 	<link rel="stylesheet" href="css/styles.css"/>
 	<link rel="stylesheet" href="css/bootstrap.css"/>
+	<link rel="stylesheet" href="css/watable.css"/>
 
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 	<script src="js/bootstrap.js"></script>
+	<script src="js/jquery.watable.js"></script>
 	<script>
 		jQuery(document).ready(function(){
 			jQuery(".collapse").collapse();
+
+			var waTable = $('#inmates-table').WATable({
+				pageSize: 20,
+				preFill: true
+			}).data('WATable');
+
+			var tableData = {
+				cols: {
+					name: {
+						index: 2,
+						type: "string",
+						friendly: "Name",
+                		}
+            		},
+				rows: '',
+			}
+
+			jQuery.ajax( '/inmates.json',{
+				success: function( response, status ) {
+					if ( 'success' == status ) {
+						tableData.rows = response;
+						waTable.setData( tableData );
+					}
+				}
+			});
+
 		});
 	</script>
 
@@ -36,6 +64,8 @@
 		<div>
 			<p class="muted center">Click on the table headings to sort.</p>
 		</div>
+
+		<div id="inmates-table"></div>
 
 <table class="table table-striped table-bordered table-hover table-condensed center">
 	<tr>
