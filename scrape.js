@@ -28,12 +28,12 @@ inmateScraper.downloadSrc = function() {
 		 
 		 if ( !error && response.statusCode == 200 ) {
 
-		 	fs.writeFileSync('./src/icurrent.htm',body,{encoding:'utf8'});
+		 	fs.writeFileSync('./data/src/icurrent.htm',body,{encoding:'utf8'});
 		 	var inmates = inmateScraper.inmatesTableAsJson( body );
 		 	inmates.forEach(function(obj,i){
 		 		request( inmateScraper.inmateUrlBase+obj.file,function( error, response, body ){
 		 			if ( !error && response.statusCode == 200 ) {
-		 				fs.writeFileSync('./src/'+obj.file,body,{encoding:'utf8'});
+		 				fs.writeFileSync('./data/src/'+obj.file,body,{encoding:'utf8'});
 		 			}
 		 		});
 		 	});
@@ -46,7 +46,7 @@ inmateScraper.downloadSrc = function() {
  */
 inmateScraper.refreshJson = function() {
 
-	var fileData = fs.readFileSync('./src/icurrent.htm',{encoding:'utf8'});
+	var fileData = fs.readFileSync('./data/src/icurrent.htm',{encoding:'utf8'});
 	if ( fileData.length == 0 )
 		return;
 
@@ -57,7 +57,7 @@ inmateScraper.refreshJson = function() {
 		if ( typeof obj.file == 'undefined' )
 			return;
 
-		var inmateFileData = fs.readFileSync('./src/'+obj.file,{encoding:'utf8'});
+		var inmateFileData = fs.readFileSync('./data/src/'+obj.file,{encoding:'utf8'});
 		var inmateProfile = inmateScraper.inmatesProfileTableAsJson( inmateFileData );
 
 		for( prop in inmateProfile ) {
