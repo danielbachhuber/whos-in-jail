@@ -6,7 +6,7 @@
 var express = require('express')
   , routes = require('./routes')
   , http = require('http')
-  , spawn = require('child_process').spawn;  
+  , spawn = require('child_process').spawn
   , ejs = require('ejs')
   , path = require('path');
 
