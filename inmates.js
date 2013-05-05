@@ -21,7 +21,7 @@ inmateScraper.fields = new Array(
 		'scheduled_release_date'
 	);
 
-inmateScraper.srcDir = './tmp/';
+inmateScraper.srcDir = './src/';
 
 inmateScraper.inmateUrlBase = 'http://www.co.yamhill.or.us/sheriff/inmates/';
 
