@@ -99,8 +99,7 @@ inmateScraper.inmatesTableAsJson = function( html ) {
 
 		});
 
-			inmates_data[i] = inmate_data;
-
+		inmates_data[i] = inmate_data;
 	});
 	return inmates_data;
 }
@@ -113,13 +112,41 @@ inmateScraper.inmatesProfileTableAsJson = function( html ) {
 	var process_next = '';
 	$('tr').each(function(j){
 
+		// Handle the inmate details at the top of the page
+		// Cheerio doesn't seem to work with attr() :(
+		if ( $(this).html().match(/height=\"248\"/ ) ) {
+			var profileDetails = $(this).text();
+			var profilePatterns = {
+					'file_number':'File Number : ([\\d]+)',
+					'arrest_date':'Arrest Date .. : ([\\d]+\\/[\\d]+\\/[\\d]+)',
+					'book_date':'Booking Date : ([\\d]+\\/[\\d]+\\/[\\d]+)',
+					'scheduled_release_date':'Scheduled Release Date : ([\\d]+\\/[\\d]+\\/[\\d]+)',
+					'eye':'Eyes : ([A-Za-z]+)',
+					'hair':'Hair .. : ([A-Za-z]+)',
+					'age':'Age... : ([0-9]+)',
+					'sex':'Sex... : ([A-Za-z])',
+					'fines':'Total Fines : \\$\\s+([\\d\\.]+)',
+					'bond':'Total Bond : \\$\\s+([\\d\\.]+)',
+					'bail':'Total Bail.. : \\$\\s+([\\d\\.,]+)',
+				};
+			for( profileKey in profilePatterns ) {
+				var regex = new RegExp( profilePatterns[profileKey] );
+				var profileVar = regex.exec(profileDetails);
+				if ( profileVar && profileVar.length == 2 )
+					inmateProfileData[profileKey] = profileVar[1];
+				else
+					inmateProfileData[profileKey] = '';
+			}
+
+		}
+
 		// Handle charges
 		if ( $(this).find('td').eq(1).text() == 'Disposition' ) {
-        	process_next = 'charges';
-        	inmateProfileData['charges'] = new Array();
+        	process_next = 'charge';
+        	inmateProfileData['charge'] = new Array();
 			return;
         }
-        if ( process_next == 'charges' ) {
+        if ( process_next == 'charge' ) {
         	var charge = new Object;
         	charge['offense'] = $(this).find('td').eq(0).text().trim();
         	charge['disposition'] = $(this).find('td').eq(1).text().trim();
@@ -128,7 +155,7 @@ inmateScraper.inmatesProfileTableAsJson = function( html ) {
         	if ( charge['offense'].length == 0 )
         		return;
 
-        	inmateProfileData['charges'].push( charge );
+        	inmateProfileData['charge'].push( charge );
         }
 
 	});
