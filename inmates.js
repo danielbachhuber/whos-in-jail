@@ -21,19 +21,27 @@ inmateScraper.fields = new Array(
 		'scheduled_release_date'
 	);
 
+inmateScraper.srcDir = '/tmp/src/';
+
 inmateScraper.inmateUrlBase = 'http://www.co.yamhill.or.us/sheriff/inmates/';
 
 inmateScraper.refreshSrc = function() {
+
+	var srcDir = inmateScraper.srcDir;
+
+	if ( fs.existsSync( srcDir ) )
+		var ret = fs.mkdirSync(srcDir);
+
 	request( this.inmateUrlBase+'icurrent.htm',function( error, response, body ){
 		 
 		 if ( !error && response.statusCode == 200 ) {
 
-		 	fs.writeFileSync('./data/src/icurrent.htm',body,{encoding:'utf8'});
+		 	fs.writeFileSync(srcDir+'icurrent.htm',body,{encoding:'utf8'});
 		 	var inmates = inmateScraper.inmatesTableAsJson( body );
 		 	inmates.forEach(function(obj,i){
 		 		request( inmateScraper.inmateUrlBase+obj.file,function( error, response, body ){
 		 			if ( !error && response.statusCode == 200 ) {
-		 				fs.writeFileSync('./data/src/'+obj.file,body,{encoding:'utf8'});
+		 				fs.writeFileSync(srcDir+obj.file,body,{encoding:'utf8'});
 		 			}
 		 		});
 		 	});
@@ -46,7 +54,7 @@ inmateScraper.refreshSrc = function() {
  */
 inmateScraper.readAsJson = function() {
 
-	var fileData = fs.readFileSync('./data/src/icurrent.htm',{encoding:'utf8'});
+	var fileData = fs.readFileSync(inmateScraper.srcDir+'icurrent.htm',{encoding:'utf8'});
 	if ( fileData.length == 0 )
 		return new Object;
 
@@ -57,7 +65,7 @@ inmateScraper.readAsJson = function() {
 		if ( typeof obj.file == 'undefined' )
 			return;
 
-		var inmateFileData = fs.readFileSync('./data/src/'+obj.file,{encoding:'utf8'});
+		var inmateFileData = fs.readFileSync(inmateScraper.srcDir+obj.file,{encoding:'utf8'});
 		var inmateProfile = inmateScraper.inmatesProfileTableAsJson( inmateFileData );
 
 		for( prop in inmateProfile ) {

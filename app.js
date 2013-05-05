@@ -37,10 +37,7 @@ app.get('/inmates.json', function(req, res) {
 
 var url_base = 'http://www.co.yamhill.or.us/sheriff/inmates/'
 app.get('/update', function(req,res) {
-	var scrape = spawn('node ./scrape.js');
-	scrape.on('exit', function(code) {
-		res.json(code);
-	});
+	inmates.refreshSrc();
 });
 
 http.createServer(app).listen(app.get('port'), function(){
