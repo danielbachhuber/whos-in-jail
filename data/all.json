@@ -1,0 +1,6065 @@
+[
+	null,
+	null,
+	null,
+	{
+		"id": "1",
+		"name": "ACEVEDO, SALVADOR JR",
+		"file": "ICUD0001.HTM",
+		"book_date": "02/15/2013",
+		"charge": [
+			{
+				"offense": "CRIMINAL DRIVING-SUSP***@071913***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "07/19/2013",
+		"file_number": "97807",
+		"arrest_date": "02/15/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "26",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "2",
+		"name": "ADDOMS, ALEXANDER BRITTON",
+		"file": "ICUD0002.HTM",
+		"book_date": "03/08/2013",
+		"charge": [
+			{
+				"offense": "SEXUAL PENETRATION 1ST DEG - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL PENETRATION 1ST DEG - CT. 4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL PENETRATION 1ST DEG - CT. 7",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISTREATMENT 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISTREATMENT 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISTREATMENT 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISTREATMENT 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISTREATMENT 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISTREATMENT 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "NEWBERG MUNI HOLD - PV HARASSMENT",
+				"disposition": "Rlsd by Judge",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 3RD DEG - CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG - CT. 5",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 3RD DEG - CT. 6",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG - CT. 8",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "500,000.00",
+		"scheduled_release_date": "",
+		"file_number": "108596",
+		"arrest_date": "03/08/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "28",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "3",
+		"name": "ALLSOP, DRAKE KHRISTI",
+		"file": "ICUD0003.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "PROBATION VIOLATION",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "109713",
+		"arrest_date": "05/02/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "22",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "4",
+		"name": "AMES, ASHLEY MARIE",
+		"file": "ICUD0004.HTM",
+		"book_date": "04/04/2013",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL***050713***",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/07/2013",
+		"file_number": "115053",
+		"arrest_date": "03/15/2013",
+		"eye": "HAZ",
+		"hair": "RED",
+		"age": "25",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "5",
+		"name": "ANDERSON, ADAM FRANCIS",
+		"file": "ICUD0005.HTM",
+		"book_date": "04/18/2013",
+		"charge": [
+			{
+				"offense": "THEFT 3RD DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL DELIVER METHAMPHETAMINE",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115130",
+		"arrest_date": "04/17/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "29",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "6",
+		"name": "ANDERSON, KEITH ALLEN",
+		"file": "ICUD0006.HTM",
+		"book_date": "04/29/2013",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "115222",
+		"arrest_date": "04/29/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "32",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "7",
+		"name": "ARNETT, BRANDON EUGENE",
+		"file": "ICUD0007.HTM",
+		"book_date": "04/29/2013",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "115221",
+		"arrest_date": "04/29/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "36",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "8",
+		"name": "ARRINGTON, BRYANT THOMAS",
+		"file": "ICUD0008.HTM",
+		"book_date": "04/30/2013",
+		"charge": [
+			{
+				"offense": "PAROLE BOARD WARRANT",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "109848",
+		"arrest_date": "04/30/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "9",
+		"name": "AUSTIN, STEVEN CHARLES",
+		"file": "ICUD0009.HTM",
+		"book_date": "03/13/2013",
+		"charge": [
+			{
+				"offense": "PV / UNLAWFUL USE OF WEAPON***W/C 051813***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "CRIMINAL DRIVING-SUSP/REVOKED***041113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 10 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/18/2013",
+		"file_number": "99061",
+		"arrest_date": "03/13/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "27",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "10",
+		"name": "AVALOS, CALLETANA MARIA",
+		"file": "ICUD0010.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "PV / PCS***0800 050613",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 5 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/06/2013",
+		"file_number": "106509",
+		"arrest_date": "05/02/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "25",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "11",
+		"name": "AYALA, JESSIE",
+		"file": "ICUD0011.HTM",
+		"book_date": "04/03/2013",
+		"charge": [
+			{
+				"offense": "PV ATT RAPE III***042713***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "PV ATT RAPE III***051713 W/C***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "PV-ASSAULT IV***060613 W/C***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/06/2013",
+		"file_number": "109587",
+		"arrest_date": "04/03/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "22",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "12",
+		"name": "BAKER, NICHOLE MARIE",
+		"file": "ICUD0012.HTM",
+		"book_date": "04/11/2013",
+		"charge": [
+			{
+				"offense": "PV/POSSESSION HEROIN ***@022614",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "FAIL TO APPEAR 1ST DEG - 1/THEFT II ***051113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PV/POSSESSION CONTROLLED SUBSTANCE ***092313",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "CLACKAMAS COUNTY HOLD***041513",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "PV/THEFT 2 ***070413",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "109770",
+		"arrest_date": "04/11/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "25",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "13",
+		"name": "BALDONI, CHRISTOPHER STEVEN",
+		"file": "ICUD0013.HTM",
+		"book_date": "03/28/2013",
+		"charge": [
+			{
+				"offense": "BW/FTA UP HERION",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA FAIL PERF DUTIES PROP DAMAGE",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA UD HEROIN",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA THEFT 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA UD HEROIN",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA UP HEROIN",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA UP METH",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA UP COCAINE",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA FREQ PLACE CONT SUB USED",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA DELV MINOR CONT SUB SCH I/II",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/FAIL PERF DUTIES DRIVER PROP DAMAGE",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/UD HEROIN",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/UP HEROIN",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/UP METH",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/UP COCAINE",
+				"disposition": "Other",
+				"sentence": ""
+			}
+		],
+		"bail": "107,000.00",
+		"scheduled_release_date": "",
+		"file_number": "113619",
+		"arrest_date": "03/28/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "19",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "14",
+		"name": "BARNES, BRANDIE LYNN",
+		"file": "ICUD0014.HTM",
+		"book_date": "03/11/2013",
+		"charge": [
+			{
+				"offense": "PV/DCS METH***PROB CONT***",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "PC METH***@081313***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "08/13/2013",
+		"file_number": "70564",
+		"arrest_date": "03/11/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "39",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "15",
+		"name": "BAUTISTA, ADRIAN CORTEZ",
+		"file": "ICUD0015.HTM",
+		"book_date": "04/23/2013",
+		"charge": [
+			{
+				"offense": "ASSAULT 3RD DEG",
+				"disposition": "Condrel",
+				"sentence": ""
+			},
+			{
+				"offense": "DISORDERLY CONDUCT 2ND DEG",
+				"disposition": "Condrel",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 2ND DEG",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "10,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115158",
+		"arrest_date": "04/23/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "19",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "16",
+		"name": "BEALE, ISAIAH MARTIN",
+		"file": "ICUD0016.HTM",
+		"book_date": "04/11/2013",
+		"charge": [
+			{
+				"offense": "PPSV SANCT/SEX AB 2***(S)0800 052813",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 48 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/28/2013",
+		"file_number": "104948",
+		"arrest_date": "04/11/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "25",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "17",
+		"name": "BENAVIDES, EDWARD ALLEN  III",
+		"file": "ICUD0017.HTM",
+		"book_date": "04/26/2013",
+		"charge": [
+			{
+				"offense": "FELON IN POSSESSION OF WEAPON - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115205",
+		"arrest_date": "04/26/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "18",
+		"name": "BENITEZ, DINORA MARISALA",
+		"file": "ICUD0018.HTM",
+		"book_date": "04/26/2013",
+		"charge": [
+			{
+				"offense": "PV/ASSLT 4",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "112817",
+		"arrest_date": "04/26/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "28",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "19",
+		"name": "BLICKENSTAFF, JEFFERY MICHAEL",
+		"file": "ICUD0019.HTM",
+		"book_date": "04/02/2013",
+		"charge": [
+			{
+				"offense": "PV/ASSAULT 4***071413***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 120 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "07/14/2013",
+		"file_number": "105032",
+		"arrest_date": "04/02/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "43",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "20",
+		"name": "BOLDS, MICHAEL JR",
+		"file": "ICUD0020.HTM",
+		"book_date": "12/21/2012",
+		"charge": [
+			{
+				"offense": "FUGITIVE FROM OTHER STATE - WASHINGTON (ASSLT",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 4TH DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "100,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114036",
+		"arrest_date": "12/21/2012",
+		"eye": "BRO",
+		"hair": "BAL",
+		"age": "37",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "21",
+		"name": "BRADLEY, WHITNEY MELISSA",
+		"file": "ICUD0021.HTM",
+		"book_date": "04/20/2013",
+		"charge": [
+			{
+				"offense": "PV/PCS METH***@061113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PV/PCS METH***@080413",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PV/DCS METH***@092713",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "09/27/2013",
+		"file_number": "107880",
+		"arrest_date": "04/19/2013",
+		"eye": "HAZ",
+		"hair": "BLN",
+		"age": "24",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "22",
+		"name": "BRANDT, JOSHUA MICHAEL",
+		"file": "ICUD0022.HTM",
+		"book_date": "03/19/2013",
+		"charge": [
+			{
+				"offense": "BW/FTA/INTERFER W/REPORT***092113 W/C***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 300 DAYS"
+			},
+			{
+				"offense": "BW/FTA/HARASSMENT***PV WAS ALREADY REVOKED***",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "PV-RAPE 3***13 MONTHS DOC CS***",
+				"disposition": "Sentenced",
+				"sentence": "1 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "111346",
+		"arrest_date": "03/19/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "21",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "23",
+		"name": "BREWER, CONYNE DYANNE",
+		"file": "ICUD0023.HTM",
+		"book_date": "04/05/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX***WEEKENDER",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 14 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/05/2013",
+		"file_number": "114544",
+		"arrest_date": "04/05/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "45",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "24",
+		"name": "BRUCE, DEWAYNE LEE",
+		"file": "ICUD0024.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "PAROLE/PROB SANCTION",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "82321",
+		"arrest_date": "05/02/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "50",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "25",
+		"name": "BRYANT, ARLIE RAY JR",
+		"file": "ICUD0025.HTM",
+		"book_date": "03/26/2013",
+		"charge": [
+			{
+				"offense": "PPSV SANCT***(S)-0900 062313",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 85 DAYS"
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 3RD DEG",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "INTERFERE W/MAKING A REPORT",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PV OSB#ORJYAM113006167",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "104769",
+		"arrest_date": "03/26/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "26",
+		"name": "BUCHHOLZ, CYRUS KANE",
+		"file": "ICUD0026.HTM",
+		"book_date": "04/12/2013",
+		"charge": [
+			{
+				"offense": "PV SANCT/DCS-METH ***W/C @051613",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/16/2013",
+		"file_number": "66686",
+		"arrest_date": "04/12/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "36",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "27",
+		"name": "BUCHHOLZ, NOAH ARTHUR",
+		"file": "ICUD0027.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX***WEEKENDER",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 5 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/05/2013",
+		"file_number": "109560",
+		"arrest_date": "05/03/2013",
+		"eye": "HAZ",
+		"hair": "BLN",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "28",
+		"name": "CARDENAS, DEMECIO",
+		"file": "ICUD0028.HTM",
+		"book_date": "11/23/2012",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL- ATT MURDER",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "113865",
+		"arrest_date": "11/23/2012",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "32",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "29",
+		"name": "CARDINAL, CHRISTOPHER RYAN",
+		"file": "ICUD0029.HTM",
+		"book_date": "04/05/2013",
+		"charge": [
+			{
+				"offense": "VRA/PCS-HEROIN",
+				"disposition": "Served",
+				"sentence": "0 YRS 5 DAYS"
+			},
+			{
+				"offense": "UNLAWFUL POSSESS MARIJ - 1***042113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 10 DAYS"
+			},
+			{
+				"offense": "CONTROLLED SUBSTANCE OFFENSE - 2 CT.4***05091",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 20 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/09/2013",
+		"file_number": "114177",
+		"arrest_date": "04/05/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "23",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "30",
+		"name": "CASAS, JESUS DANIEL CRUZ",
+		"file": "ICUD0030.HTM",
+		"book_date": "04/25/2013",
+		"charge": [
+			{
+				"offense": "VIOLATION OF RELEASE AGREEMENT/HARASSMENT",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA/HARASSMENT",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114971",
+		"arrest_date": "04/25/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "31",
+		"name": "CASEY, JACOB NMN",
+		"file": "ICUD0031.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "114786",
+		"arrest_date": "05/02/2013",
+		"eye": "BLU",
+		"hair": "BLK",
+		"age": "37",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "32",
+		"name": "CHAFFIN, ROBERT JOSHUA",
+		"file": "ICUD0032.HTM",
+		"book_date": "12/17/2012",
+		"charge": [
+			{
+				"offense": "PPSV SANCT/RAPE III **(S)-0800 102513",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 120 DAYS"
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 2ND DEG ORJYAM113001705***0",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "MAN DESTRUCTIVE DEVICE CT.1  ORJYAM113001900*",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "POSSESS DESTRUCTIVE DEVICE CT.2  ORJYAM113001",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "RECKLESSLY ENDANGERING CT.3  ORJYAM113001900",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 3RD DEG ORJYAM113002922***082113***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 120 DAYS"
+			},
+			{
+				"offense": "PV/RESISTING ARREST***092713***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 40 DAYS"
+			},
+			{
+				"offense": "PV/INTERFERE W/PEACE OFFICER***092713***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 40 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "09/19/2013",
+		"file_number": "108509",
+		"arrest_date": "12/17/2012",
+		"eye": "HAZ",
+		"hair": "RED",
+		"age": "22",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "33",
+		"name": "CHAMBERS, DANIEL LORAN",
+		"file": "ICUD0033.HTM",
+		"book_date": "03/22/2013",
+		"charge": [
+			{
+				"offense": "STRANGULATION",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 4TH DEG - DOMESTIC",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "HARASSMENT - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CONTEMPT OF COURT-ORJYAM113006558",
+				"disposition": "Other",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "110296",
+		"arrest_date": "03/22/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "41",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "34",
+		"name": "CHANDLER, CHAD LEE",
+		"file": "ICUD0034.HTM",
+		"book_date": "05/01/2013",
+		"charge": [
+			{
+				"offense": "PROB SANCTION***(S)-0930 051013***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 10 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/10/2013",
+		"file_number": "106166",
+		"arrest_date": "05/01/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "36",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "35",
+		"name": "CHASE, THOMAS WAYNE",
+		"file": "ICUD0035.HTM",
+		"book_date": "04/08/2013",
+		"charge": [
+			{
+				"offense": "MAC MUNI / DIS CON 2",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "MAC MUNI / INITIATING FALSE REPORT ***050413",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 5 DAYS"
+			},
+			{
+				"offense": "PPSV SANCT **(S)-0900 050713",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/07/2013",
+		"file_number": "65647",
+		"arrest_date": "04/08/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "40",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "36",
+		"name": "CHESTNUT, EARL SCOTT",
+		"file": "ICUD0036.HTM",
+		"book_date": "02/08/2013",
+		"charge": [
+			{
+				"offense": "FUGITIVE FROM OTHER STATE/TEXAS",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "65,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114534",
+		"arrest_date": "02/08/2013",
+		"eye": "BLU",
+		"hair": "GRY",
+		"age": "56",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "37",
+		"name": "CLIFFORD, ANTHONY LEROY",
+		"file": "ICUD0037.HTM",
+		"book_date": "04/09/2013",
+		"charge": [
+			{
+				"offense": "BW/FTA/CRIM MIS II",
+				"disposition": "Rlsd by Judge",
+				"sentence": ""
+			},
+			{
+				"offense": "PPSV SANCT/BURG II***(S)1400 052813",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 59 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/28/2013",
+		"file_number": "98908",
+		"arrest_date": "04/09/2013",
+		"eye": "GRN",
+		"hair": "BRO",
+		"age": "28",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "38",
+		"name": "CLUVER, CODEY LEE",
+		"file": "ICUD0038.HTM",
+		"book_date": "04/15/2013",
+		"charge": [
+			{
+				"offense": "PV/ROBB 3***@060713***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/07/2013",
+		"file_number": "110772",
+		"arrest_date": "04/15/2013",
+		"eye": "BLU",
+		"hair": "BLK",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "39",
+		"name": "COKER, BEU RYAN",
+		"file": "ICUD0039.HTM",
+		"book_date": "04/18/2013",
+		"charge": [
+			{
+				"offense": "UNAUTHORIZED USE MOTOR VEHICLE",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FRAUDULENT USE OF CREDIT CARD - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "IDENTITY THEFT",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 2ND DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "22,500.00",
+		"scheduled_release_date": "",
+		"file_number": "113898",
+		"arrest_date": "04/18/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "18",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "40",
+		"name": "COLVIN, SARAH DAWN",
+		"file": "ICUD0040.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "PROBATION SANCTION",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "HINDERING PROSECUTION",
+				"disposition": "Open",
+				"sentence": ""
+			}
+		],
+		"bail": "7,500.00",
+		"scheduled_release_date": "",
+		"file_number": "112117",
+		"arrest_date": "05/03/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "23",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "41",
+		"name": "CONANT, TRENT ANDREW",
+		"file": "ICUD0041.HTM",
+		"book_date": "04/23/2013",
+		"charge": [
+			{
+				"offense": "ASSAULT 4TH DEG/DOMESTIC",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "HARASSMENT - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "10,000.00",
+		"scheduled_release_date": "",
+		"file_number": "107718",
+		"arrest_date": "04/23/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "26",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "42",
+		"name": "CONDON, KOWITT NMN",
+		"file": "ICUD0042.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "PAROLE SANCT /DCS  MJ***(S)0900 050513",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 3 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/05/2013",
+		"file_number": "111211",
+		"arrest_date": "05/03/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "21",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "43",
+		"name": "COX, SCOTT WILLIAM",
+		"file": "ICUD0043.HTM",
+		"book_date": "02/22/2013",
+		"charge": [
+			{
+				"offense": "SUBSIDY HOUSING",
+				"disposition": "Other",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "49721",
+		"arrest_date": "02/22/2013",
+		"eye": "BRO",
+		"hair": "GRY",
+		"age": "49",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "44",
+		"name": "CRAVIOTTO, MICHAEL JOHN",
+		"file": "ICUD0044.HTM",
+		"book_date": "04/01/2013",
+		"charge": [
+			{
+				"offense": "PAR / BURG 1***(S)0900 051613",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "OTHER AGENCY  (POLK COUNTY WARRANT PCS MDMA)",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "25,000.00",
+		"scheduled_release_date": "",
+		"file_number": "110655",
+		"arrest_date": "04/01/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "21",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "45",
+		"name": "CROSS, JACKIE LEIGH",
+		"file": "ICUD0045.HTM",
+		"book_date": "05/04/2013",
+		"charge": [
+			{
+				"offense": "PROB SANCTION",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "109463",
+		"arrest_date": "05/03/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "29",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "46",
+		"name": "CRUZ, KARIN KAYE",
+		"file": "ICUD0046.HTM",
+		"book_date": "04/11/2013",
+		"charge": [
+			{
+				"offense": "BW/FTA/TAMPERING W DRUG REC CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA/TAMPERING W DRUG REC CT.4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA/POSS OXY CT.2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA/FORG 2 CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA/FORG 2 CT.6",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA/POSS OXY CT.5",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA/TAMPERING W DRUG REC",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA/UNCLASS FELONY",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR 1ST DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR 2ND DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "60,000.00",
+		"scheduled_release_date": "",
+		"file_number": "113620",
+		"arrest_date": "04/11/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "46",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "47",
+		"name": "CUNNINGHAM, JOSEPH DALE",
+		"file": "ICUD0047.HTM",
+		"book_date": "04/09/2013",
+		"charge": [
+			{
+				"offense": "THEFT 1ST DEG - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 1ST DEG - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 1ST DEG - CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 1ST DEG - 1",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 2ND DEG - 1",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 2ND DEG - 1",
+				"disposition": "Not Filed",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "77722",
+		"arrest_date": "04/09/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "50",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "48",
+		"name": "DAVIDSON, CHRISTOPHER AARON",
+		"file": "ICUD0048.HTM",
+		"book_date": "03/04/2013",
+		"charge": [
+			{
+				"offense": "RAPE 2ND DEG - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 2ND DEG - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 2ND DEG - CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG - CT. 7",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 2ND DEG - CT. 4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 2ND DEG - CT. 5",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 2ND DEG - CT. 6",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 1ST DEG ORJYAM113005209 - CT. 8",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 2ND DEG - CT. 9",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 3RD DEG - CT. 10",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 4TH DEG - CT. 11",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "100,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114783",
+		"arrest_date": "03/04/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "19",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "49",
+		"name": "DAVIS, DAVID MICHAEL",
+		"file": "ICUD0049.HTM",
+		"book_date": "05/01/2013",
+		"charge": [
+			{
+				"offense": "PV/PCS METH",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "58464",
+		"arrest_date": "05/01/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "45",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "50",
+		"name": "DELATORRE, JOSE HUBER",
+		"file": "ICUD0050.HTM",
+		"book_date": "04/11/2013",
+		"charge": [
+			{
+				"offense": "ROBBERY 1ST DEG",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ROBBERY 1ST DEG",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BURGLARY 1ST DEG",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 1ST DEG-AGGRAVATED",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "COERCION",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "COERCION",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL USE OF WEAPON",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "EOCI(T)",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "ICE",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "104739",
+		"arrest_date": "04/11/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "28",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "51",
+		"name": "DEVEREAUX, REBECCA JEAN",
+		"file": "ICUD0051.HTM",
+		"book_date": "04/04/2013",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL***051713***",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "GILLIAM COUNTY HOLD",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "113603",
+		"arrest_date": "04/04/2013",
+		"eye": "GRN",
+		"hair": "BRO",
+		"age": "32",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "52",
+		"name": "DEWEESE, THOMAS JEFFREY",
+		"file": "ICUD0052.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX***052913",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/29/2013",
+		"file_number": "79096",
+		"arrest_date": "05/03/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "49",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "53",
+		"name": "DIXON, DEANNA LOUISE",
+		"file": "ICUD0053.HTM",
+		"book_date": "04/02/2013",
+		"charge": [
+			{
+				"offense": "PV/SUPP CONT **(S)-0900 041513",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 14 DAYS"
+			},
+			{
+				"offense": "UNLAWFUL POSSESS INHALANTS",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "45331",
+		"arrest_date": "04/02/2013",
+		"eye": "BLU",
+		"hair": "GRY",
+		"age": "51",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "54",
+		"name": "DOBBINS, SHAWN WARREN",
+		"file": "ICUD0054.HTM",
+		"book_date": "04/27/2013",
+		"charge": [
+			{
+				"offense": "PV SANCT/FEL POSS OF WPN***WKNDR***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 9 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/05/2013",
+		"file_number": "71707",
+		"arrest_date": "04/27/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "34",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "55",
+		"name": "DUNCAN, CYNTHIA ANN",
+		"file": "ICUD0055.HTM",
+		"book_date": "04/30/2013",
+		"charge": [
+			{
+				"offense": "PV/UP METH/NO COURT***(S)-0900 050613***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 7 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/06/2013",
+		"file_number": "69013",
+		"arrest_date": "04/30/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "45",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "56",
+		"name": "DURRETT, DEREK LEE",
+		"file": "ICUD0056.HTM",
+		"book_date": "02/14/2013",
+		"charge": [
+			{
+				"offense": "ASSAULT 4TH DEG CT.2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "STRANGULATION CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 4TH DEG CT.4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "COERCION CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "STRANGULATION - CT. 5",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "750,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114546",
+		"arrest_date": "02/14/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "57",
+		"name": "ELLIOTT, STEVEN DALE",
+		"file": "ICUD0057.HTM",
+		"book_date": "05/01/2013",
+		"charge": [
+			{
+				"offense": "CONTEMPT /PCS METH",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "60299",
+		"arrest_date": "05/01/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "37",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "58",
+		"name": "ELLIS, CHRISTOPHER DUANE",
+		"file": "ICUD0058.HTM",
+		"book_date": "04/30/2013",
+		"charge": [
+			{
+				"offense": "PV/ASSAULT OFFICER **(S)-0900 050713",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 40 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/07/2013",
+		"file_number": "94304",
+		"arrest_date": "04/30/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "29",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "59",
+		"name": "ENGLE, RANDY JAY",
+		"file": "ICUD0059.HTM",
+		"book_date": "03/02/2013",
+		"charge": [
+			{
+				"offense": "PPSV SANCT/FEL POSS WPN  **(S)-0900 041513",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 45 DAYS"
+			},
+			{
+				"offense": "ROBBERY 3 - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 3RD - CT. 4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 4TH DEG - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "HARASSMENT - CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "29797",
+		"arrest_date": "03/02/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "53",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "60",
+		"name": "ESCOBEDO, CARLOS NMN",
+		"file": "ICUD0060.HTM",
+		"book_date": "02/06/2013",
+		"charge": [
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE -***@061013*** 1",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "PAR SANCT/DCS-METH***0830 022513",
+				"disposition": "Served",
+				"sentence": "0 YRS 20 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/10/2013",
+		"file_number": "80390",
+		"arrest_date": "02/05/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "30",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "61",
+		"name": "FAGUNDES, VINCENT DOMENIC",
+		"file": "ICUD0061.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "PROB SANCT/ASSLT 4",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "114274",
+		"arrest_date": "05/03/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "27",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "62",
+		"name": "FLANAGAN, TIMOTHY BERTRAM",
+		"file": "ICUD0062.HTM",
+		"book_date": "02/20/2013",
+		"charge": [
+			{
+				"offense": "PV PCS METH (S)0900 030613",
+				"disposition": "Served",
+				"sentence": "0 YRS 15 DAYS"
+			},
+			{
+				"offense": "UNL DCS- METH***T/S - ORJYAM113003705",
+				"disposition": "Served",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - ORJYAM113003705",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL DELIVER METHAMPHETAMINE - ORJYAM113003705",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - ORJYAM113003705",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "FREQ PLACE CONTROLLED SUB USED - ORJYAM113003",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "CT.1 PV /DUII***W/C @060313***ORJYAM113004167",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 120 DAYS"
+			},
+			{
+				"offense": "CT.1 PV/THEFT 2***W/C 062313",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/23/2013",
+		"file_number": "110476",
+		"arrest_date": "02/20/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "46",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "63",
+		"name": "FOLMAR, DAVID DOYAL  III",
+		"file": "ICUD0063.HTM",
+		"book_date": "04/22/2013",
+		"charge": [
+			{
+				"offense": "PV/SEX ABUSE 3 **(S)-0900 062013",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/20/2013",
+		"file_number": "113096",
+		"arrest_date": "04/22/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "64",
+		"name": "FULMER, TAMARA LOUISE",
+		"file": "ICUD0064.HTM",
+		"book_date": "04/24/2013",
+		"charge": [
+			{
+				"offense": "PV/PCS METH***@052713",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 50 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/27/2013",
+		"file_number": "113321",
+		"arrest_date": "04/24/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "35",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "65",
+		"name": "GALLEGOS, ABRAM NMN",
+		"file": "ICUD0065.HTM",
+		"book_date": "04/15/2013",
+		"charge": [
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 2ND DEG",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "10,000.00",
+		"scheduled_release_date": "",
+		"file_number": "95616",
+		"arrest_date": "04/15/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "32",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "66",
+		"name": "GARCIA, JOSE JESUS FABIAN",
+		"file": "ICUD0066.HTM",
+		"book_date": "04/01/2013",
+		"charge": [
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 1ST DEG CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 1ST DEG CT.2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 1ST DEG CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 1ST DEG CT.4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 1ST DEG CT.5",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 1ST DEG CT.6",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "IMMIGRATION (ICE) HOLD",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 1ST DEG CT.7",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 1ST DEG CT.8",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "600,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115009",
+		"arrest_date": "04/01/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "42",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "67",
+		"name": "GARCIA, SALOMAN NUNEZ",
+		"file": "ICUD0067.HTM",
+		"book_date": "04/16/2013",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL/FELONY DUII***070213",
+				"disposition": "Hold",
+				"sentence": "0 YRS 90 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "07/02/2013",
+		"file_number": "115108",
+		"arrest_date": "04/16/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "30",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "68",
+		"name": "GLASER, CHELSA RENEE",
+		"file": "ICUD0068.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "UNL DELIVER METHAMPHETAMINE",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "500,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115241",
+		"arrest_date": "05/02/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "26",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "69",
+		"name": "GLENN, CRYSTAL NEIL",
+		"file": "ICUD0069.HTM",
+		"book_date": "04/19/2013",
+		"charge": [
+			{
+				"offense": "RECKLESSLY ENDANGERING******061213",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 20 DAYS"
+			},
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX - 1***052513",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 40 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/12/2013",
+		"file_number": "105297",
+		"arrest_date": "04/19/2013",
+		"eye": "GRN",
+		"hair": "BRO",
+		"age": "27",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "70",
+		"name": "GOLDSMITH, JACQUELINE RUTH",
+		"file": "ICUD0070.HTM",
+		"book_date": "04/09/2013",
+		"charge": [
+			{
+				"offense": "PPSV SANCT/ASSLT 2***(S)-0900 070713***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "07/07/2013",
+		"file_number": "58211",
+		"arrest_date": "04/09/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "58",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "71",
+		"name": "GONZALEZ, ROGELIO MARTINEZ",
+		"file": "ICUD0071.HTM",
+		"book_date": "04/18/2013",
+		"charge": [
+			{
+				"offense": "BENTON COUNTY BILLABLE",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "112970",
+		"arrest_date": "04/18/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "37",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "72",
+		"name": "GREEN, DALE ROSS",
+		"file": "ICUD0072.HTM",
+		"book_date": "02/19/2013",
+		"charge": [
+			{
+				"offense": "PVS-ASSAULT 2***(S)-0900 050513***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/05/2013",
+		"file_number": "100558",
+		"arrest_date": "02/19/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "44",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "73",
+		"name": "GRIEVE, RYAN BENJAMIN",
+		"file": "ICUD0073.HTM",
+		"book_date": "04/26/2013",
+		"charge": [
+			{
+				"offense": "ASSAULT 3RD/DOMESTIC CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PV/ASSAULT 4 **(S)-0900 050613",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 11 DAYS"
+			},
+			{
+				"offense": "HARASSMENT - 1 CT.2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 2ND DEG CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "112062",
+		"arrest_date": "04/26/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "36",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "74",
+		"name": "GRIFFIN, RONALD GORDON JR.",
+		"file": "ICUD0074.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "WASHINGTON CO WARRANT",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE INFO-POLICE OFC-CRIM OFF",
+				"disposition": "Open",
+				"sentence": ""
+			}
+		],
+		"bail": "5,000.00",
+		"scheduled_release_date": "",
+		"file_number": "96004",
+		"arrest_date": "05/03/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "30",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "75",
+		"name": "GRIGSBY, MATTHEW TAVIS",
+		"file": "ICUD0075.HTM",
+		"book_date": "04/15/2013",
+		"charge": [
+			{
+				"offense": "PV/FAILURE TO REPORT AS SEX OFFENDER",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO REGISTER/SEX OFFENDER - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PPSV RAPE II***0800 061313",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "FAIL TO REGISTER/SEX OFFENDER - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "17,500.00",
+		"scheduled_release_date": "",
+		"file_number": "106119",
+		"arrest_date": "04/15/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "23",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "76",
+		"name": "GROSS, MELODY ANN",
+		"file": "ICUD0076.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "FAIL TO APPEAR 2ND DEG -DUII",
+				"disposition": "Open",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR 2ND DEG -RECKLESS DRIVE",
+				"disposition": "Open",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "70074",
+		"arrest_date": "05/03/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "41",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "77",
+		"name": "HAGGSTROM, RACHAEL MARIE",
+		"file": "ICUD0077.HTM",
+		"book_date": "04/29/2013",
+		"charge": [
+			{
+				"offense": "CHILD NEGLECT 1ST DEG ***062013",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/20/2013",
+		"file_number": "105693",
+		"arrest_date": "04/29/2013",
+		"eye": "HAZ",
+		"hair": "BLN",
+		"age": "33",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "78",
+		"name": "HAMRICK, ALISSA LAURA",
+		"file": "ICUD0078.HTM",
+		"book_date": "04/25/2013",
+		"charge": [
+			{
+				"offense": "FAIL TO APPEAR 1ST DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR 2ND DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW FTA/THEFT I",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW FTA/HARASSMENT",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "25,000.00",
+		"scheduled_release_date": "",
+		"file_number": "113778",
+		"arrest_date": "04/25/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "22",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "79",
+		"name": "HENSON, TIMOTHY WAYNE",
+		"file": "ICUD0079.HTM",
+		"book_date": "04/14/2013",
+		"charge": [
+			{
+				"offense": "CRIMINAL CONSPIRACY",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "IDENTITY THEFT - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 2ND DEG - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FRAUDULENT USE OF CREDIT CARD - CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "84213",
+		"arrest_date": "04/14/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "34",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "80",
+		"name": "HEPTINSTALL, HAROLD EUGENE",
+		"file": "ICUD0080.HTM",
+		"book_date": "04/11/2013",
+		"charge": [
+			{
+				"offense": "PV / PCS METH *** @060313",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/03/2013",
+		"file_number": "110698",
+		"arrest_date": "04/11/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "40",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "81",
+		"name": "HERNANDEZ, DANIEL PAUL",
+		"file": "ICUD0081.HTM",
+		"book_date": "04/30/2013",
+		"charge": [
+			{
+				"offense": "PV/NO COURT",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "94937",
+		"arrest_date": "04/30/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "33",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "82",
+		"name": "HIGHLEY, JOHNNY ELDON",
+		"file": "ICUD0082.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "PV/SEX ABUSE II",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "46054",
+		"arrest_date": "05/02/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "42",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "83",
+		"name": "HILL, CARA LEE",
+		"file": "ICUD0083.HTM",
+		"book_date": "04/10/2013",
+		"charge": [
+			{
+				"offense": "BW/FTA MCS, DCS 1000' SCHOOL",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "BW/FTA CHILD NEGLECT 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PAROLE VIOLATION***(S)0900 053113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 52 DAYS"
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "110838",
+		"arrest_date": "04/10/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "30",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "84",
+		"name": "HILLIARD, DAVID MICHAEL",
+		"file": "ICUD0084.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "NEWBERG MUNI/FTA SHOW CAUSE",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "10,000.00",
+		"scheduled_release_date": "",
+		"file_number": "67153",
+		"arrest_date": "05/02/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "40",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "85",
+		"name": "HILLS, KEVIN DALE",
+		"file": "ICUD0085.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "PPSV",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "102428",
+		"arrest_date": "05/02/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "26",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "86",
+		"name": "HOOPER, ROBERT LEE",
+		"file": "ICUD0086.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1 CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL POSSESS HEROIN CT.2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS OXYCODONE CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1 CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "30,000.00",
+		"scheduled_release_date": "",
+		"file_number": "98088",
+		"arrest_date": "05/02/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "28",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "87",
+		"name": "HOPPER, MATTHEW LINDZY",
+		"file": "ICUD0087.HTM",
+		"book_date": "03/29/2013",
+		"charge": [
+			{
+				"offense": "PV/DUII***W/C  050913**",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/09/2013",
+		"file_number": "109750",
+		"arrest_date": "03/29/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "46",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "88",
+		"name": "HOWARD, JEANA MAE",
+		"file": "ICUD0088.HTM",
+		"book_date": "03/14/2013",
+		"charge": [
+			{
+				"offense": "PV/THEFT 2***W/C 051113***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "PV/BURG 1***W/C 062113***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/21/2013",
+		"file_number": "98551",
+		"arrest_date": "03/14/2013",
+		"eye": "GRN",
+		"hair": "BRO",
+		"age": "28",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "89",
+		"name": "JEFFREY, JEROME DANIEL",
+		"file": "ICUD0089.HTM",
+		"book_date": "01/16/2013",
+		"charge": [
+			{
+				"offense": "PV / THEFT***W/C @051813",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "PV / FURNISH LIQUOR TO MINOR - CT. 1W/C ***05",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 15 DAYS"
+			},
+			{
+				"offense": "PV / FURNISH LIQUOR TO MINOR - CT. 2***W/C 06",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 15 DAYS"
+			},
+			{
+				"offense": "PV / FURNISH LIQUOR TO MINOR - CT. 3***W/C 05",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 15 DAYS"
+			},
+			{
+				"offense": "PV / FURNISH LIQUOR TO MINOR - CT. 4***W/C 05",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 15 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/09/2013",
+		"file_number": "102832",
+		"arrest_date": "01/16/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "28",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "90",
+		"name": "JENKINS, KATHRYN ELIZABETH",
+		"file": "ICUD0090.HTM",
+		"book_date": "05/04/2013",
+		"charge": [
+			{
+				"offense": "PV/ID THEFT/NO COURT",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "109025",
+		"arrest_date": "05/04/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "36",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "91",
+		"name": "JOHNSON, DAMIAN ZACKARY",
+		"file": "ICUD0091.HTM",
+		"book_date": "04/24/2013",
+		"charge": [
+			{
+				"offense": "PV/SANCT/DCS-HEROIN***(S)0800 051013",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 17 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/10/2013",
+		"file_number": "113418",
+		"arrest_date": "04/24/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "92",
+		"name": "JONES, TYLER WILLIAM",
+		"file": "ICUD0092.HTM",
+		"book_date": "04/18/2013",
+		"charge": [
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "WASH CO PV DETAINER",
+				"disposition": "DROPPED",
+				"sentence": ""
+			}
+		],
+		"bail": "25,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115135",
+		"arrest_date": "04/18/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "48",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "93",
+		"name": "KALUGIN, VASILY STEPANOVICH",
+		"file": "ICUD0093.HTM",
+		"book_date": "01/14/2013",
+		"charge": [
+			{
+				"offense": "THEFT BY RECEIVING",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT BY RECEIVING",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT BY RECEIVING",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "BURGLARY 2ND DEG CT 4.",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UUMV CT 1.",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 2 CT 2.",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 2 CT 3.",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL ENTRY INTO MOTOR VEH *ORJYAM11300150",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL ENTRY INTO MOTOR VEH - CT. 8",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL ENTRY INTO MOTOR VEH - CT. 9",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL ENTRY INTO MOTOR VEH",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL ENTRY INTO MOTOR VEH",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL ENTRY INTO MOTOR VEH",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL ENTRY INTO MOTOR VEH",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "UNLAWFUL ENTRY INTO MOTOR VEH",
+				"disposition": "Not Filed",
+				"sentence": ""
+			}
+		],
+		"bail": "100,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114226",
+		"arrest_date": "01/14/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "33",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "94",
+		"name": "KELLER, STEVEN RANDALL",
+		"file": "ICUD0094.HTM",
+		"book_date": "04/26/2013",
+		"charge": [
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CLACK CO HOLD/DETAINER",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115204",
+		"arrest_date": "04/26/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "34",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "95",
+		"name": "KEOMANIVONG, KHAMKHAY NMN",
+		"file": "ICUD0095.HTM",
+		"book_date": "11/03/2012",
+		"charge": [
+			{
+				"offense": "UUMV CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "POSS STOLEN VEHICLE CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "MULT CO HOLD/PAROLE VIOLATION***(S)0900 01311",
+				"disposition": "Served",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "FUGITIVE FROM WA ST/PCS-METH",
+				"disposition": "DROPPED",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "10,000.00",
+		"scheduled_release_date": "",
+		"file_number": "113780",
+		"arrest_date": "11/03/2012",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "42",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "96",
+		"name": "KEPLER, AARON PHILLIP",
+		"file": "ICUD0096.HTM",
+		"book_date": "03/02/2013",
+		"charge": [
+			{
+				"offense": "PV POSS MARIJ***@042413",
+				"disposition": "Served",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "CT.1 PV/THEFT 2***051313***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/13/2013",
+		"file_number": "111025",
+		"arrest_date": "03/02/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "97",
+		"name": "KING, JOHN ALBERT",
+		"file": "ICUD0097.HTM",
+		"book_date": "01/04/2013",
+		"charge": [
+			{
+				"offense": "BW/FTA/BURG 2 ***W/C @021613",
+				"disposition": "Served",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "BW/FTA/THEFT 1 ***W/C @032913",
+				"disposition": "Served",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "BW/FTA/FURNISHING LIQUOR TO MINOR ***041813",
+				"disposition": "Served",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "PV/PCS-MARIJ (ORJYAM113002965)***W/C @050813*",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/08/2013",
+		"file_number": "102971",
+		"arrest_date": "01/04/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "26",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "98",
+		"name": "KINSLOW, JAMES BRYAN",
+		"file": "ICUD0098.HTM",
+		"book_date": "04/17/2013",
+		"charge": [
+			{
+				"offense": "PROBATION VIOLATION ASSLT IV ***PROBATION CON",
+				"disposition": "Sentenced",
+				"sentence": ""
+			},
+			{
+				"offense": "PROBATION VIOLATION CRIM MISCH II ***PROBATIO",
+				"disposition": "Sentenced",
+				"sentence": ""
+			},
+			{
+				"offense": "PROBATION VIOLATION ATTEMPT ***052313",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 40 DAYS"
+			},
+			{
+				"offense": "PROBATION VIOLATION PCS METH ***PROBATION CON",
+				"disposition": "Sentenced",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/23/2013",
+		"file_number": "90711",
+		"arrest_date": "04/17/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "32",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "99",
+		"name": "KRON, NATHAN CURTIS",
+		"file": "ICUD0099.HTM",
+		"book_date": "03/27/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX***W/C 072413",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "07/24/2013",
+		"file_number": "74887",
+		"arrest_date": "03/27/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "34",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "100",
+		"name": "LAMBERT, CHARLES ROY",
+		"file": "ICUD0100.HTM",
+		"book_date": "02/16/2013",
+		"charge": [
+			{
+				"offense": "WASH CO WARR/UEMV/THEFT III",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1**T/S",
+				"disposition": "Served",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "CRIMINAL DRIVING-SUSP/REVOKED - 1***W/C 06261",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 150 DAYS"
+			},
+			{
+				"offense": "MULTNOMAH COUNTY",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/26/2013",
+		"file_number": "114597",
+		"arrest_date": "02/16/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "45",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "101",
+		"name": "LEHMAN, ROY DEAN",
+		"file": "ICUD0101.HTM",
+		"book_date": "05/01/2013",
+		"charge": [
+			{
+				"offense": "PV / PCS OXYCODONE***(S)-0830 050613***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 6 DAYS"
+			},
+			{
+				"offense": "POSSESSION OF OXYCODONE",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "5,000.00",
+		"scheduled_release_date": "05/06/2013",
+		"file_number": "94591",
+		"arrest_date": "05/01/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "55",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "102",
+		"name": "LESTER, MICHAEL KENNETH",
+		"file": "ICUD0102.HTM",
+		"book_date": "11/19/2012",
+		"charge": [
+			{
+				"offense": "DUII CT.1***W/C 012813***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "CRIM DRIV-SUSP/REVOKED CT.2***W/C 090513***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 365 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "09/05/2013",
+		"file_number": "108901",
+		"arrest_date": "11/18/2012",
+		"eye": "BLU",
+		"hair": "GRY",
+		"age": "63",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "103",
+		"name": "LEWIS, CHRISTOPHER KENNETH",
+		"file": "ICUD0103.HTM",
+		"book_date": "01/10/2012",
+		"charge": [
+			{
+				"offense": "SUBSIDY HOUSING",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "PAR SANCT/SEX ABUSE***(S)0900 030812",
+				"disposition": "Served",
+				"sentence": "0 YRS 21 DAYS"
+			},
+			{
+				"offense": "PAR SANCT / ATT SODOMY 1",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "PV SANCTION***(S)-0900 091012***",
+				"disposition": "Served",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PAROLE VIOLATION/SEX ABUSE***(S)0800 100512",
+				"disposition": "Served",
+				"sentence": "0 YRS 8 DAYS"
+			},
+			{
+				"offense": "PAROLE/PROB SANCTION **(S)-0800 121112",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 14 DAYS"
+			},
+			{
+				"offense": "PAR SANCT/SEX ABUSE I***(S)-0800 122012***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 9 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "12/20/2012",
+		"file_number": "66420",
+		"arrest_date": "01/10/2012",
+		"eye": "HAZ",
+		"hair": "RED",
+		"age": "34",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "104",
+		"name": "LITTLETON, JEREMY DUANE",
+		"file": "ICUD0104.HTM",
+		"book_date": "04/14/2013",
+		"charge": [
+			{
+				"offense": "PROBATION REVOC/PCS METH***@051313 W/C",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/13/2013",
+		"file_number": "79574",
+		"arrest_date": "04/14/2013",
+		"eye": "HAZ",
+		"hair": "RED",
+		"age": "36",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "105",
+		"name": "LOPEZ, NATHAN LEE",
+		"file": "ICUD0105.HTM",
+		"book_date": "04/08/2013",
+		"charge": [
+			{
+				"offense": "PV/BURG 1 **(S)-0830 050613",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 29 DAYS"
+			},
+			{
+				"offense": "OTHER AGENCY-WASHINGTON CO HOLD-WARRANT",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "50,000.00",
+		"scheduled_release_date": "",
+		"file_number": "104979",
+		"arrest_date": "04/08/2013",
+		"eye": "BRO",
+		"hair": "RED",
+		"age": "23",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "106",
+		"name": "LOUDON, JAMES DALE",
+		"file": "ICUD0106.HTM",
+		"book_date": "02/21/2013",
+		"charge": [
+			{
+				"offense": "PV WARRANT/ATTEMPT ELUDE POLICE/VEHICLE ***@0",
+				"disposition": "Served",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PV WARRANT/RECKLESSLY ENDANGER ANOTHER",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "PV WARRANT/RECKLESS DRIVING",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "PAROLE SANCTION",
+				"disposition": "DROPPED",
+				"sentence": ""
+			},
+			{
+				"offense": "PAROLE HOLD/DELIV METH **(S)-0900 052113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "CLACKAMUS COUNTY HOLD",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "40,000.00",
+		"scheduled_release_date": "05/21/2013",
+		"file_number": "75982",
+		"arrest_date": "02/21/2013",
+		"eye": "BRO",
+		"hair": "BLN",
+		"age": "33",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "107",
+		"name": "LUIS, BENITO GARCIA",
+		"file": "ICUD0107.HTM",
+		"book_date": "03/23/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX***061713",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 100 DAYS"
+			},
+			{
+				"offense": "FAIL CARRY/PRESENT OP LICENSE",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "MARION CO WARRANT",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE INFO-POLICE OFC-VEH OFF",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "IMMIGRATION (ICE) BILL",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "986.00",
+		"scheduled_release_date": "",
+		"file_number": "114956",
+		"arrest_date": "03/22/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "42",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "108",
+		"name": "LUMPKINS, JONATHAN BRADLEY",
+		"file": "ICUD0108.HTM",
+		"book_date": "04/12/2013",
+		"charge": [
+			{
+				"offense": "DUII***WKNDR***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 10 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/05/2013",
+		"file_number": "110210",
+		"arrest_date": "04/12/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "27",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "109",
+		"name": "MALO, KATELIN MARIE",
+		"file": "ICUD0109.HTM",
+		"book_date": "10/23/2012",
+		"charge": [
+			{
+				"offense": "CONTROLLED SUBSTANCE OFFENSE - CT. 1",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "POLK COUNTY HOLD (PV) **(S)-0900 012013",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "CONTROLLED SUBSTANCE OFFENSE - CT. 4",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "CONTROLLED SUBSTANCE OFFENSE - 2 PCS",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL PCS-METH CT. 2***W/C @ 031913***",
+				"disposition": "Sentence Served",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 4TH DEG CT.1 - ***W/C 060213",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "UNLAWFUL POSSESSION OXYCODONE - CT. 3",
+				"disposition": "Dismissed",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/02/2013",
+		"file_number": "105981",
+		"arrest_date": "10/23/2012",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "24",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "110",
+		"name": "MANNING, ANTHONY ROBERT",
+		"file": "ICUD0110.HTM",
+		"book_date": "04/29/2013",
+		"charge": [
+			{
+				"offense": "PROB SANCTION***(S)-0800 050613***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 8 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/06/2013",
+		"file_number": "113937",
+		"arrest_date": "04/29/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "18",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "111",
+		"name": "MARTINEZ, MICHAEL NMN",
+		"file": "ICUD0111.HTM",
+		"book_date": "04/04/2013",
+		"charge": [
+			{
+				"offense": "PAROLE WARRANT/ASSAULT IV CF (S)-0900 070213",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE (ORJYAM113006213)",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "35830",
+		"arrest_date": "04/04/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "47",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "112",
+		"name": "MARTINEZ, MIGUEL ROJAS ANJEL",
+		"file": "ICUD0112.HTM",
+		"book_date": "04/23/2013",
+		"charge": [
+			{
+				"offense": "FAIL TO APPEAR 2ND DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "IMMIGRATION (ICE) HOLD",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "25,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114874",
+		"arrest_date": "04/23/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "26",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "113",
+		"name": "MATHERS, ROBERT SHANE",
+		"file": "ICUD0113.HTM",
+		"book_date": "04/18/2013",
+		"charge": [
+			{
+				"offense": "PV/CUSTODIAL INTERFERENCE II***@053113***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/31/2013",
+		"file_number": "101623",
+		"arrest_date": "04/18/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "38",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "114",
+		"name": "MAUL, JUSTIN LYLE",
+		"file": "ICUD0114.HTM",
+		"book_date": "04/24/2013",
+		"charge": [
+			{
+				"offense": "PV / DCS METH",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PV / PCS METH",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 2ND DEG - 1 (ORJYAM113007775)",
+				"disposition": "DROPPED",
+				"sentence": ""
+			}
+		],
+		"bail": "70,000.00",
+		"scheduled_release_date": "",
+		"file_number": "113403",
+		"arrest_date": "04/24/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "25",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "115",
+		"name": "MAXWELL, SANDRA ELIZABETH",
+		"file": "ICUD0115.HTM",
+		"book_date": "04/19/2013",
+		"charge": [
+			{
+				"offense": "HINDERING PROSECUTION***WKNDR",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 15 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/05/2013",
+		"file_number": "7344",
+		"arrest_date": "04/19/2013",
+		"eye": "GRN",
+		"hair": "BRO",
+		"age": "44",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "116",
+		"name": "MCLEAN, JAMES CAMPBELL",
+		"file": "ICUD0116.HTM",
+		"book_date": "04/16/2013",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL/PV ASSAULT I***050913",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/09/2013",
+		"file_number": "110340",
+		"arrest_date": "04/16/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "52",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "117",
+		"name": "MEDINA, EMILIO JUNIOR",
+		"file": "ICUD0117.HTM",
+		"book_date": "03/03/2013",
+		"charge": [
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1***@061413",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 120 DAYS"
+			},
+			{
+				"offense": "WASHINGTON COUNTY WARRANT",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "PAR SANCT/UUMV***(S)1400 040113",
+				"disposition": "Sentence Served",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "WASHINTON COUNTY WARRANT #2",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "75,555.55",
+		"scheduled_release_date": "",
+		"file_number": "106012",
+		"arrest_date": "03/03/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "21",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "118",
+		"name": "MENDENHALL, ALLEN JAMES",
+		"file": "ICUD0118.HTM",
+		"book_date": "04/23/2013",
+		"charge": [
+			{
+				"offense": "PPSV SANCT/RAPE 3***(S)-0800 052113***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/21/2013",
+		"file_number": "104840",
+		"arrest_date": "04/23/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "23",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "119",
+		"name": "MINOR, ZACHARY DEAN",
+		"file": "ICUD0119.HTM",
+		"book_date": "04/27/2013",
+		"charge": [
+			{
+				"offense": "DRUG COURT SANCTION***0900 050613",
+				"disposition": "Sentenced",
+				"sentence": ""
+			},
+			{
+				"offense": "PROB SANCTION",
+				"disposition": "DROPPED",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/06/2013",
+		"file_number": "112300",
+		"arrest_date": "04/27/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "21",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "120",
+		"name": "MITCHELL, BRYAN CHRISTOPHER",
+		"file": "ICUD0120.HTM",
+		"book_date": "04/01/2013",
+		"charge": [
+			{
+				"offense": "ELUDE POLICE OFC-VEHICLE - 1 FELONY CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ATT ASSAULT 3RD DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "ATT ASSAULT 3RD DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "RECKLESS DRIVING CT.4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "HIT AND RUN VEHICLE-PROPERTY CT.5",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ATT MURDER-AGGRAVATED CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ATT ASSAULT 1ST DEG CT.2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RECKLESSLY ENDANGERING - CT. 6",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RECKLESSLY ENDANGERING - CT. 7",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RECKLESSLY ENDANGERING - CT. 8",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RECKLESSLY ENDANGERING - CT. 9",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 1ST DEG - CT. 10",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX - CT. 11",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "106235",
+		"arrest_date": "03/31/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "29",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "121",
+		"name": "MOLASH, BRADLEY FRANCIS",
+		"file": "ICUD0121.HTM",
+		"book_date": "03/12/2013",
+		"charge": [
+			{
+				"offense": "FELONY DUII - 1***W/C 051513",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 5 DAYS"
+			},
+			{
+				"offense": "CRIMINAL DRIVING-SUSP/REVOKED - 1***PROBATION",
+				"disposition": "Sentenced",
+				"sentence": ""
+			},
+			{
+				"offense": "PV/ASSAULT 4   ORJYAM113007022",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "WASHINGTON COUNTY PV DETAINER",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "10,000.00",
+		"scheduled_release_date": "05/15/2013",
+		"file_number": "107598",
+		"arrest_date": "03/12/2013",
+		"eye": "HAZ",
+		"hair": "BLK",
+		"age": "27",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "122",
+		"name": "MONTAGUE, JAMES MICHAEL",
+		"file": "ICUD0122.HTM",
+		"book_date": "03/28/2013",
+		"charge": [
+			{
+				"offense": "PAROLE VIOLATION***(S)-0900 042613***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "PV/ASSLT 4 ***060113 W/C",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/01/2013",
+		"file_number": "103275",
+		"arrest_date": "03/28/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "41",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "123",
+		"name": "MULBREGHT, PETER WILLIAM III",
+		"file": "ICUD0123.HTM",
+		"book_date": "04/16/2013",
+		"charge": [
+			{
+				"offense": "PV/PCS METH ***W/C @052913",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/29/2013",
+		"file_number": "103609",
+		"arrest_date": "04/16/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "124",
+		"name": "MUNSON, RYAN JERRESON",
+		"file": "ICUD0124.HTM",
+		"book_date": "03/08/2013",
+		"charge": [
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL DELIVER METHAMPHETAMINE - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CARRY CONCEALED/POSS FIREARM***T/S***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "CARRY CONCEALED/POSS KNIFE",
+				"disposition": "Dismissed",
+				"sentence": ""
+			}
+		],
+		"bail": "500,000.00",
+		"scheduled_release_date": "",
+		"file_number": "105268",
+		"arrest_date": "03/08/2013",
+		"eye": "GRN",
+		"hair": "BLN",
+		"age": "28",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "125",
+		"name": "MYERS, JED HAWK",
+		"file": "ICUD0125.HTM",
+		"book_date": "11/07/2012",
+		"charge": [
+			{
+				"offense": "ELUDE POLICE CT.1***W/C @ 030913***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "RECKLESSLY ENDANGERING CT.3***W/C @030913",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "RECKLESS ENDANGERING CT. 4***W/C @030913",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "FAIL TO PERFORM DRIVER CT. 7***W/C @030913***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "FELON IN POSS WEAPON - 1 CT.1***W/C @081713**",
+				"disposition": "Sentenced",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "08/17/2013",
+		"file_number": "78420",
+		"arrest_date": "11/07/2012",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "32",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "126",
+		"name": "NELSON, JAI MONROE",
+		"file": "ICUD0126.HTM",
+		"book_date": "05/04/2013",
+		"charge": [
+			{
+				"offense": "PVS",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "15,000.00",
+		"scheduled_release_date": "",
+		"file_number": "82707",
+		"arrest_date": "05/04/2013",
+		"eye": "GRN",
+		"hair": "GRY",
+		"age": "44",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "127",
+		"name": "NIXON, RENEE ELAINE",
+		"file": "ICUD0127.HTM",
+		"book_date": "04/22/2013",
+		"charge": [
+			{
+				"offense": "DRUG COURT/PCS METH***1700 042913***",
+				"disposition": "Sentenced",
+				"sentence": ""
+			},
+			{
+				"offense": "DRUG CT. / UNL POSSESS METHAMPHETAMINE",
+				"disposition": "Pending",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "04/29/2013",
+		"file_number": "55376",
+		"arrest_date": "04/22/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "43",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "128",
+		"name": "NORMAN, LESLIE PAUL",
+		"file": "ICUD0128.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX - 1",
+				"disposition": "Remanded",
+				"sentence": "0 YRS 14 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "112447",
+		"arrest_date": "05/03/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "129",
+		"name": "OCONNOR, JERID LYNN",
+		"file": "ICUD0129.HTM",
+		"book_date": "04/25/2013",
+		"charge": [
+			{
+				"offense": "PV SANCT/PCS-METH***(S)0900 050713",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 13 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/07/2013",
+		"file_number": "94825",
+		"arrest_date": "04/25/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "29",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "130",
+		"name": "ODEGAARD, THOR BRANDON",
+		"file": "ICUD0130.HTM",
+		"book_date": "05/04/2013",
+		"charge": [
+			{
+				"offense": "WASHINGTON CO WARRANT",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "WASHINGTON CO WARRANT",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CLACKAMAS CO WARRANT",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "120,000.00",
+		"scheduled_release_date": "",
+		"file_number": "70998",
+		"arrest_date": "05/04/2013",
+		"eye": "GRN",
+		"hair": "BRO",
+		"age": "35",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "131",
+		"name": "OGLESBY, RACHELLE ANN",
+		"file": "ICUD0131.HTM",
+		"book_date": "04/16/2013",
+		"charge": [
+			{
+				"offense": "PV/POSS HEROIN***PROBATION CONT",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "PV/POSS HEROIN***PROBATION CONT",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "PV/ENDANGER WELFARE MINOR***052213",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 40 DAYS"
+			},
+			{
+				"offense": "CLACKAMAS COUNTY PV DETAINER",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "113540",
+		"arrest_date": "04/16/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "33",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "132",
+		"name": "OPP, DANIEL JAMES",
+		"file": "ICUD0132.HTM",
+		"book_date": "05/01/2013",
+		"charge": [
+			{
+				"offense": "PV/CORR CHILD II***(S)0800 053013",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/30/2013",
+		"file_number": "80708",
+		"arrest_date": "05/01/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "38",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "133",
+		"name": "OSWALT, SUSAN MALINDA",
+		"file": "ICUD0133.HTM",
+		"book_date": "04/04/2013",
+		"charge": [
+			{
+				"offense": "DUII***W/C 052813",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 70 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/28/2013",
+		"file_number": "114093",
+		"arrest_date": "04/04/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "38",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "134",
+		"name": "PANAGUITON, JASON ALLAN",
+		"file": "ICUD0134.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE***1600 050513",
+				"disposition": "Sentenced",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "115243",
+		"arrest_date": "05/03/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "35",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "135",
+		"name": "PEKAREK, AUDRA ROSE",
+		"file": "ICUD0135.HTM",
+		"book_date": "06/14/2012",
+		"charge": [
+			{
+				"offense": "PV DEL METH",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "PV PCS METH",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "PV FORG II CT.2***101012***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 120 DAYS"
+			},
+			{
+				"offense": "PV THEFT II CT. 3",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "PV/PCS-METH***@120312",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PV/THEFT 2***012213",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 120 DAYS"
+			},
+			{
+				"offense": "PV/DCS-MEH***W/C @062913",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 365 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/29/2013",
+		"file_number": "99163",
+		"arrest_date": "06/14/2012",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "27",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "136",
+		"name": "PERCOILI, JASMINE BROOKE",
+		"file": "ICUD0136.HTM",
+		"book_date": "05/01/2013",
+		"charge": [
+			{
+				"offense": "PV SANCTION***(S)-0830 051413***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 15 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/14/2013",
+		"file_number": "114033",
+		"arrest_date": "05/01/2013",
+		"eye": "BRO",
+		"hair": "BLN",
+		"age": "21",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "137",
+		"name": "PISTULKA, CHRISTOPHER JOSEPH",
+		"file": "ICUD0137.HTM",
+		"book_date": "03/18/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX***W/C 051513",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "MENACING*** NO JAIL",
+				"disposition": "Sentenced",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL DRIVING-SUSP/REVOKED***NO JAIL",
+				"disposition": "Sentenced",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/15/2013",
+		"file_number": "112891",
+		"arrest_date": "03/18/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "37",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "138",
+		"name": "POWELL, DAVID NEWMAN",
+		"file": "ICUD0138.HTM",
+		"book_date": "04/25/2013",
+		"charge": [
+			{
+				"offense": "BENTON CO BILL",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "113643",
+		"arrest_date": "04/25/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "26",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "139",
+		"name": "PRECIADO, JESSE JOSUE",
+		"file": "ICUD0139.HTM",
+		"book_date": "01/31/2013",
+		"charge": [
+			{
+				"offense": "BW/FTA THEFT 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/THEFT 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ASSAULT 3RD DEG ORJYAM113002930",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR 1ST DEG - 1 (ORJYAM113004115)",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "70,000.00",
+		"scheduled_release_date": "",
+		"file_number": "112170",
+		"arrest_date": "01/31/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "140",
+		"name": "PRICE, LAURIE MAE",
+		"file": "ICUD0140.HTM",
+		"book_date": "05/01/2013",
+		"charge": [
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FASLE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FALSE HEALTH CARE CLAIM",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "110944",
+		"arrest_date": "05/01/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "48",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "141",
+		"name": "PRICHARD, GREGORY GERALD",
+		"file": "ICUD0141.HTM",
+		"book_date": "05/01/2013",
+		"charge": [
+			{
+				"offense": "PV / HIT & RUN***(S)1700 050613",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 6 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/06/2013",
+		"file_number": "108180",
+		"arrest_date": "05/01/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "142",
+		"name": "REED, ABRAHAM NATHANIEL",
+		"file": "ICUD0142.HTM",
+		"book_date": "03/19/2013",
+		"charge": [
+			{
+				"offense": "PV/PCS METH***@071513 W/C***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PV/THEFT I***@051513 W/C***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PV/THEFT II***060413 W/C***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "BURGLARY 2ND DEG***042613 W/C***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "07/15/2013",
+		"file_number": "95870",
+		"arrest_date": "03/19/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "33",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "143",
+		"name": "RICHARDS, CHRISTOPHER WILLIAM",
+		"file": "ICUD0143.HTM",
+		"book_date": "01/10/2013",
+		"charge": [
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 1ST DEG CT.4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL PENETRATION W/FOREIGN OBJECT 1ST DEG C",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "500,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114194",
+		"arrest_date": "01/10/2013",
+		"eye": "BLU",
+		"hair": "GRY",
+		"age": "43",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "144",
+		"name": "RIMA, MARTIN LEE",
+		"file": "ICUD0144.HTM",
+		"book_date": "09/13/2012",
+		"charge": [
+			{
+				"offense": "FAIL TO APPEAR-BENCH WARRANT / MANU MH 1000'",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR-BENCH WARRANT / ENDANGERING WE",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR-BENCH WARRANT / ENDANGER WELFA",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR-BENCH WARRANT / ASSAULT 4",
+				"disposition": "Prob Cont",
+				"sentence": ""
+			},
+			{
+				"offense": "HARASS***T/S",
+				"disposition": "Served",
+				"sentence": "0 YRS 90 DAYS"
+			},
+			{
+				"offense": "FAIL TO APPEAR 2ND DEG***W/C 080513",
+				"disposition": "Sentenced",
+				"sentence": "1 YRS"
+			},
+			{
+				"offense": "PV/ENDR WELFARE MINOR***W/C 122812",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 270 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "08/05/2013",
+		"file_number": "96691",
+		"arrest_date": "09/13/2012",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "30",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "145",
+		"name": "RISSEEUW, RUSSELL ROY",
+		"file": "ICUD0145.HTM",
+		"book_date": "03/24/2013",
+		"charge": [
+			{
+				"offense": "PV/COERCION **(S)-0900 050613",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 45 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/06/2013",
+		"file_number": "64152",
+		"arrest_date": "03/24/2013",
+		"eye": "BLU",
+		"hair": "GRY",
+		"age": "52",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "146",
+		"name": "ROBERTSON, ALEXANDER WADE",
+		"file": "ICUD0146.HTM",
+		"book_date": "04/05/2013",
+		"charge": [
+			{
+				"offense": "VRA/ASSAULT 4 (4/4/13 1157)***060813",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "VRA/ASSAULT 4 (4/4/13 1321)",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/HARASSMENT (4/4/13 1157)",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/HARASSMENT (4/4/13 1321)",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/STRANGULATION (4/4/13 1157)***T/S",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "VRA/STRANGULATION (4/4/13 1321) ***051213",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "VRA/ASSAULT 4 (4/4/13 1157)",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/ASSAULT 4 (4/4/13 1321)",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/STRANGULATION (4/4/13 1157)",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/STRANGULATION (4/4/13 1321)",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/STRANGULATION (4/4/13 1157)",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/STRANGULATION (4/4/13 1321)",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/ASSAULT 4 (4/4/13 1157)",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/ASSAULT 4 (4/4/13 1321)",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "VRA/ASSAULT 4 (4/4/13 1157)",
+				"disposition": "Other",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/08/2013",
+		"file_number": "106314",
+		"arrest_date": "04/05/2013",
+		"eye": "GRN",
+		"hair": "BRO",
+		"age": "27",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "147",
+		"name": "RUGGLES, CHRISTOPHER JOSHUA",
+		"file": "ICUD0147.HTM",
+		"book_date": "12/13/2012",
+		"charge": [
+			{
+				"offense": "CRIMINAL MISCHIEF 2ND DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "CT.2 ATT ELUDE POLICE OFC-VEHICLE***@062813 W",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "ATT ELUDE POLICE OFC-MISD - CT. 3",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 2ND DEG - CT. 5",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "CT.1 UNL POSSESS METHAMPHETAMINE***@042813 W/",
+				"disposition": "Served",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "RECKLESS DRIVING  - CT. 4",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "POST PRISON SUPV SANCTION **(S)-1000 010913",
+				"disposition": "Served",
+				"sentence": "0 YRS 28 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/28/2013",
+		"file_number": "84591",
+		"arrest_date": "12/13/2012",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "32",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "148",
+		"name": "SALAZAR, RAMIRO",
+		"file": "ICUD0148.HTM",
+		"book_date": "02/13/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX - CT. 1***W/C @09",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 330 DAYS"
+			},
+			{
+				"offense": "RECKLESS DRIVING - CT. 2",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL DRIVING-SUSP/REVOKED - CT. 3***W/C 1",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "PV/DUII***W/C 010114",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			},
+			{
+				"offense": "CLAC CO/DUII",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "CLAC CO/M-DWS",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "HIT AND RUN VEHICLE-PROPERTY - CT. 4",
+				"disposition": "Dismissed",
+				"sentence": ""
+			}
+		],
+		"bail": "40,000.00",
+		"scheduled_release_date": "",
+		"file_number": "106240",
+		"arrest_date": "02/13/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "46",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "149",
+		"name": "SANTOS, CARLOS ALBERTO",
+		"file": "ICUD0149.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "UNL DELIVER METHAMPHETAMINE",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "500,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115242",
+		"arrest_date": "05/02/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "29",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "150",
+		"name": "SANTOYA, NICHOLAS RAMON",
+		"file": "ICUD0150.HTM",
+		"book_date": "03/12/2013",
+		"charge": [
+			{
+				"offense": "PPSV DCS MJ***(S)-0800 052113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "MAC MUNI / DISORDERLY CONDUCT 2ND DEG ORJYAM1",
+				"disposition": "Rlsd by Judge",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/21/2013",
+		"file_number": "110617",
+		"arrest_date": "03/12/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "23",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "151",
+		"name": "SHELDON, RANDALL EARL",
+		"file": "ICUD0151.HTM",
+		"book_date": "03/15/2013",
+		"charge": [
+			{
+				"offense": "PV/ASSLT IV***W/C 042313",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 45 DAYS"
+			},
+			{
+				"offense": "PV/RESIS ARREST***052413 W/C***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 45 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/24/2013",
+		"file_number": "109437",
+		"arrest_date": "03/15/2013",
+		"eye": "HAZ",
+		"hair": "RED",
+		"age": "22",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "152",
+		"name": "SHERVA, STEPHANI ANN",
+		"file": "ICUD0152.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "PV HIND PROS***0830 052113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 19 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/21/2013",
+		"file_number": "110306",
+		"arrest_date": "05/03/2013",
+		"eye": "BRO",
+		"hair": "GRY",
+		"age": "29",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "153",
+		"name": "SHORTS, JAMES LEE",
+		"file": "ICUD0153.HTM",
+		"book_date": "03/12/2013",
+		"charge": [
+			{
+				"offense": "PV-SEX ABUSE***(S)-0800 051013***",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/10/2013",
+		"file_number": "110902",
+		"arrest_date": "03/12/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "38",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "154",
+		"name": "SMITH, MARVIN LEROY",
+		"file": "ICUD0154.HTM",
+		"book_date": "01/06/2013",
+		"charge": [
+			{
+				"offense": "PCS METH***W/C @052213",
+				"disposition": "Sentenced",
+				"sentence": "180 YRS"
+			},
+			{
+				"offense": "CRIMINAL TRESPASS 2ND DEG",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "PAROLE SANCT/FELON WEAP***(S)0900 013013",
+				"disposition": "Served",
+				"sentence": "0 YRS 25 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/09/2013",
+		"file_number": "60150",
+		"arrest_date": "01/05/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "55",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "155",
+		"name": "SMITH, SCOTT JORDAN",
+		"file": "ICUD0155.HTM",
+		"book_date": "04/25/2013",
+		"charge": [
+			{
+				"offense": "HOLD OTHER COUNTY (WASHINGTON COUNTY FTA)",
+				"disposition": "Hold",
+				"sentence": ""
+			},
+			{
+				"offense": "HARASSMENT - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "109443",
+		"arrest_date": "04/25/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "21",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "156",
+		"name": "SNYDER, FINAN ZACHARY",
+		"file": "ICUD0156.HTM",
+		"book_date": "04/21/2013",
+		"charge": [
+			{
+				"offense": "FAIL TO APPEAR/FAILURE TO REPORT AS SEX OFFEN",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "25,000.00",
+		"scheduled_release_date": "",
+		"file_number": "100107",
+		"arrest_date": "04/21/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "31",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "157",
+		"name": "SPITTLES, THERESA SUZANNE",
+		"file": "ICUD0157.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "POLK CO PV DETAINER ***COURT",
+				"disposition": "Hold",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "108856",
+		"arrest_date": "05/02/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "47",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "158",
+		"name": "SPRENGER, CALEB WATSON",
+		"file": "ICUD0158.HTM",
+		"book_date": "04/30/2013",
+		"charge": [
+			{
+				"offense": "PV/POSS HEROIN **(S)-1600 050713",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 8 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/07/2013",
+		"file_number": "111601",
+		"arrest_date": "04/30/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "23",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "159",
+		"name": "STARK, BRETT MATTHEW",
+		"file": "ICUD0159.HTM",
+		"book_date": "05/04/2013",
+		"charge": [
+			{
+				"offense": "CLACK CO HOLD- FTA/DUII",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "25,000.00",
+		"scheduled_release_date": "",
+		"file_number": "112479",
+		"arrest_date": "05/03/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "160",
+		"name": "STEINDL, NICHOLAS JOSEPH",
+		"file": "ICUD0160.HTM",
+		"book_date": "05/02/2013",
+		"charge": [
+			{
+				"offense": "FAIL TO APPEAR-BENCH WARRANT (NEWBERG MUNI-CR",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "10,000.00",
+		"scheduled_release_date": "",
+		"file_number": "91423",
+		"arrest_date": "05/02/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "29",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "161",
+		"name": "STEWART, SARA VIRGINIA  GASKEY",
+		"file": "ICUD0161.HTM",
+		"book_date": "03/06/2013",
+		"charge": [
+			{
+				"offense": "CRIMINAL MISCHIEF 2ND DEG ***T/A",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 15 DAYS"
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 3RD DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 2ND DEG***T/S",
+				"disposition": "Served",
+				"sentence": "0 YRS 15 DAYS"
+			},
+			{
+				"offense": "HARASSMENT - 1***052613",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/26/2013",
+		"file_number": "95838",
+		"arrest_date": "03/06/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "44",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "162",
+		"name": "STRAWN, CHARLES WEBSTER IV",
+		"file": "ICUD0162.HTM",
+		"book_date": "09/26/2012",
+		"charge": [
+			{
+				"offense": "ONLINE SEX CORRUPT CHILD II CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 3RD DEG CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 3RD DEG CT.4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 3RD DEG CT. 5",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 3RD DEG",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 3RD DEG",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 3RD DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 3RD DEG CT.6",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 3RD DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "SODOMY 3RD DEG",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 2 CT. 2",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "CONTRIB SEX DELINQUENCY-MINOR JYAM11201744",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 3RD DEG   JYAM112017444",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 2ND DEG  JYAM112017444",
+				"disposition": "Other",
+				"sentence": ""
+			},
+			{
+				"offense": "RAPE 3RD DEG CT. 7",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "100,000.00",
+		"scheduled_release_date": "",
+		"file_number": "113597",
+		"arrest_date": "09/26/2012",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "19",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "163",
+		"name": "STUCK, KAYLA LYNN",
+		"file": "ICUD0163.HTM",
+		"book_date": "04/30/2013",
+		"charge": [
+			{
+				"offense": "PV/NO COURT",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "106651",
+		"arrest_date": "04/30/2013",
+		"eye": "BRO",
+		"hair": "BLN",
+		"age": "22",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "164",
+		"name": "SUTTERFIELD, WILLIAM GERALD",
+		"file": "ICUD0164.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX***1900 050513",
+				"disposition": "Sentenced",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/05/2013",
+		"file_number": "60439",
+		"arrest_date": "05/03/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "36",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "165",
+		"name": "TAROZZI, JEREMY BRANDON",
+		"file": "ICUD0165.HTM",
+		"book_date": "05/04/2013",
+		"charge": [
+			{
+				"offense": "DRIVE UNDER INFLUENCE INTOX - 1",
+				"disposition": "Open",
+				"sentence": ""
+			},
+			{
+				"offense": "PROB SANCTION",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "6,250.00",
+		"scheduled_release_date": "",
+		"file_number": "93902",
+		"arrest_date": "05/04/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "29",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "166",
+		"name": "THORNTON, DANIEL RAY",
+		"file": "ICUD0166.HTM",
+		"book_date": "02/16/2013",
+		"charge": [
+			{
+				"offense": "PV/BURG I***(S)-0900 031213***",
+				"disposition": "Served",
+				"sentence": "0 YRS 25 DAYS"
+			},
+			{
+				"offense": "CT.2 VRA/ESCAPE II***@101613*** OSBORJYAM1130",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 365 DAYS"
+			},
+			{
+				"offense": "CT.1 VRA/ESCAPE II OSB#ORJYAM113003553",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "CT.2 VRA/RESIST ARREST ORJYAM OSB11300355",
+				"disposition": "Dismissed",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "10/16/2013",
+		"file_number": "99981",
+		"arrest_date": "02/16/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "28",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "167",
+		"name": "TILLERY, JOHN KELLEY",
+		"file": "ICUD0167.HTM",
+		"book_date": "04/16/2013",
+		"charge": [
+			{
+				"offense": "VIOLATION OF RESTRAINING ORDER",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL MISCHIEF 1ST DEG  ORJYAM113007013",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "30,000.00",
+		"scheduled_release_date": "",
+		"file_number": "115112",
+		"arrest_date": "04/16/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "42",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "168",
+		"name": "TRAVIS, HARRY JOSEPH",
+		"file": "ICUD0168.HTM",
+		"book_date": "02/13/2013",
+		"charge": [
+			{
+				"offense": "UNLAWFUL POSSESS HEROIN",
+				"disposition": "Dismissed",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE ***@051113",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 100 DAYS"
+			},
+			{
+				"offense": "UNLAWFUL POSSESS MARIJ - 1",
+				"disposition": "Not Filed",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/11/2013",
+		"file_number": "98587",
+		"arrest_date": "02/13/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "28",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "169",
+		"name": "TROCHEZ, ALDO ALEXANDER",
+		"file": "ICUD0169.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "FAIL TO APPEAR 1ST DEG - 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "VIOLATION OF RELEASE AGREEMENT",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "30,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114120",
+		"arrest_date": "05/03/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "24",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "170",
+		"name": "URIBE, MIGUEL ANGEL",
+		"file": "ICUD0170.HTM",
+		"book_date": "03/06/2013",
+		"charge": [
+			{
+				"offense": "PV/ STRANGULATION - CT. 2***042513 W/C",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "PV / HARASS - CT. 3***051513 W/C",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "PV / HARASSMENT***060413 W/C",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 30 DAYS"
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE***@071513 W/C",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			},
+			{
+				"offense": "RESISTING ARREST - 071513 W/C",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 60 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "07/15/2013",
+		"file_number": "109916",
+		"arrest_date": "03/06/2013",
+		"eye": "BRO",
+		"hair": "BLK",
+		"age": "22",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "171",
+		"name": "VANWAY, JESSICA LYNN",
+		"file": "ICUD0171.HTM",
+		"book_date": "04/18/2013",
+		"charge": [
+			{
+				"offense": "PPSV SANCT/MISTREAT I***(S)0800 052213",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 35 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/22/2013",
+		"file_number": "107027",
+		"arrest_date": "04/18/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "23",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "172",
+		"name": "VAUGHAN, CHRISTOPHER JASON",
+		"file": "ICUD0172.HTM",
+		"book_date": "04/25/2013",
+		"charge": [
+			{
+				"offense": "PV SANCT/ATTPT ASSLT I",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "",
+		"file_number": "108550",
+		"arrest_date": "04/25/2013",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "22",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "173",
+		"name": "VENHAUS, DAVID MARION",
+		"file": "ICUD0173.HTM",
+		"book_date": "04/27/2013",
+		"charge": [
+			{
+				"offense": "PV SANCTION-DUII **(S)-0900 050813",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 12 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "05/08/2013",
+		"file_number": "56273",
+		"arrest_date": "04/27/2013",
+		"eye": "BRO",
+		"hair": "GRY",
+		"age": "56",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "174",
+		"name": "WALKER, MATTHEW RYAN",
+		"file": "ICUD0174.HTM",
+		"book_date": "02/10/2013",
+		"charge": [
+			{
+				"offense": "FAIL TO APPEAR 1ST DEG/BURGLARY",
+				"disposition": "Condrel",
+				"sentence": ""
+			},
+			{
+				"offense": "FAIL TO APPEAR 1ST DEG/THEFT 1",
+				"disposition": "Condrel",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL CONSPIRACY (ORJYAM113006762)",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "THEFT 2ND DEG - CT. 2     (ORJYAM113006762)",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "IDENTITY THEFT - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FRAUDULENT USE OF CREDIT CARD - CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "20,000.00",
+		"scheduled_release_date": "",
+		"file_number": "109564",
+		"arrest_date": "02/10/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "25",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "175",
+		"name": "WECKEL, BRANDON JACOB",
+		"file": "ICUD0175.HTM",
+		"book_date": "05/03/2013",
+		"charge": [
+			{
+				"offense": "FTA-BENCH WARRANT/THEFT 2",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "10,000.00",
+		"scheduled_release_date": "",
+		"file_number": "110657",
+		"arrest_date": "05/03/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "26",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "176",
+		"name": "WHITE, APRIL MARIE",
+		"file": "ICUD0176.HTM",
+		"book_date": "03/28/2013",
+		"charge": [
+			{
+				"offense": "PV/DUII***082913",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 180 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "08/29/2013",
+		"file_number": "105592",
+		"arrest_date": "03/28/2013",
+		"eye": "BLU",
+		"hair": "BLN",
+		"age": "26",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "177",
+		"name": "WILLIAMS, RUSSELL WADE",
+		"file": "ICUD0177.HTM",
+		"book_date": "04/24/2013",
+		"charge": [
+			{
+				"offense": "FELON IN POSSESSION OF WEAPON - CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "FELON IN POSSESSION OF WEAPON - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "UNL POSSESS METHAMPHETAMINE - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PV SANCT/ASSLT 4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PV SANCT/TAMP WITNESS",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PV SANCT/RAPE 3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "PV SANCT/THEFT AGGR",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEX ABUSE 2 - CT. 1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "SEXUAL ABUSE 3RD DEG - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CONTRIB SEX DELINQUENCY-MINOR - CT. 3",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "50,000.00",
+		"scheduled_release_date": "",
+		"file_number": "108033",
+		"arrest_date": "04/24/2013",
+		"eye": "BLU",
+		"hair": "BRO",
+		"age": "22",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "178",
+		"name": "WILSON, NICHOLAS ALLEN",
+		"file": "ICUD0178.HTM",
+		"book_date": "10/16/2012",
+		"charge": [
+			{
+				"offense": "PV-RAPE III ***041713",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 365 DAYS"
+			},
+			{
+				"offense": "PV/ENDGR MINOR ***W/C 061513",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 365 DAYS"
+			},
+			{
+				"offense": "PV/CONTR SEXUAL DELINQUENCY MINOR ***W/C 0615",
+				"disposition": "Sentenced",
+				"sentence": "0 YRS 365 DAYS"
+			}
+		],
+		"bail": "0.00",
+		"scheduled_release_date": "06/15/2013",
+		"file_number": "110634",
+		"arrest_date": "10/16/2012",
+		"eye": "BRO",
+		"hair": "BRO",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "179",
+		"name": "WINTERS, VICKI JO MERTEN",
+		"file": "ICUD0179.HTM",
+		"book_date": "02/08/2013",
+		"charge": [
+			{
+				"offense": "FELONY DUII",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "CRIMINAL DRIVING-SUSP/MISD",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "35,000.00",
+		"scheduled_release_date": "",
+		"file_number": "101305",
+		"arrest_date": "02/08/2013",
+		"eye": "HAZ",
+		"hair": "RED",
+		"age": "52",
+		"sex": "F",
+		"fines": "0.00",
+		"bond": "0.00"
+	},
+	{
+		"id": "180",
+		"name": "WOODALL, ALEXZANDR ROBERT",
+		"file": "ICUD0180.HTM",
+		"book_date": "03/13/2013",
+		"charge": [
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 2ND DEG - CT. 2",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 2ND DEG CT.4",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 2ND DEG CT.6",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 2ND DEG CT.7",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ONLINE SEX CORRUPT CHILD II CT.1",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "DISPLAY CHILD-SEXUAL CONDUCT - CT.3",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "DISPLAY CHILD-SEXUAL CONDUCT",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "DISPLAY CHILD-SEXUAL CONDUCT",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "DISPLAY CHILD-SEXUAL CONDUCT",
+				"disposition": "Not Filed",
+				"sentence": ""
+			},
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 1ST DEG CT.5",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 2ND DEG CT.8",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 2ND DEG CT.9",
+				"disposition": "Pending",
+				"sentence": ""
+			},
+			{
+				"offense": "ENCOURAGE CHILD SEX ABUSE 2ND DEG CT.10",
+				"disposition": "Pending",
+				"sentence": ""
+			}
+		],
+		"bail": "50,000.00",
+		"scheduled_release_date": "",
+		"file_number": "114868",
+		"arrest_date": "03/13/2013",
+		"eye": "HAZ",
+		"hair": "BRO",
+		"age": "20",
+		"sex": "M",
+		"fines": "0.00",
+		"bond": "0.00"
+	}
+]
