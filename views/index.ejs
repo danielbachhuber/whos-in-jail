@@ -70,6 +70,7 @@
 					if ( 'success' == status ) {
 						tableData.rows = response;
 						waTable.setData( tableData );
+						jQuery('#inmate-count').text(response.length);
 					}
 				}
 			});
@@ -93,9 +94,8 @@
 					<p class="lead center">Find out who's in the Yamhill County Jail now, why they're there, and how much it will cost them to get out.</p> 
 				</div>
 
-				<!--replace 186 below with actual inmate number from json -->
 				<div id="inmate-number" class=" lead-questions span4">
-					<p class="lead center"><strong>186</strong></p>
+					<p class="lead center"><strong span id="inmate-count">????</strong></p>
 					<p class="lead center">inmates today</p>
 				</div>
 		</div>
