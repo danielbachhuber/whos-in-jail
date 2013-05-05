@@ -99,7 +99,7 @@ inmateScraper.inmatesTableAsJson = function( html ) {
 
 		});
 
-		inmates_data[i] = inmate_data;
+		inmates_data.push(inmate_data);
 	});
 	return inmates_data;
 }
