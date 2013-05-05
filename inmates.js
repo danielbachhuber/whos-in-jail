@@ -23,7 +23,7 @@ inmateScraper.fields = new Array(
 
 inmateScraper.inmateUrlBase = 'http://www.co.yamhill.or.us/sheriff/inmates/';
 
-inmateScraper.downloadSrc = function() {
+inmateScraper.refreshSrc = function() {
 	request( this.inmateUrlBase+'icurrent.htm',function( error, response, body ){
 		 
 		 if ( !error && response.statusCode == 200 ) {
@@ -44,11 +44,11 @@ inmateScraper.downloadSrc = function() {
 /**
  * Refresh JSON /src
  */
-inmateScraper.refreshJson = function() {
+inmateScraper.readAsJson = function() {
 
 	var fileData = fs.readFileSync('./data/src/icurrent.htm',{encoding:'utf8'});
 	if ( fileData.length == 0 )
-		return;
+		return new Object;
 
 	var inmates = inmateScraper.inmatesTableAsJson( fileData );
 
@@ -65,8 +65,7 @@ inmateScraper.refreshJson = function() {
 		}
 
 	});
-
-	inmateScraper.writeJsonToFile(inmates,'all.json');
+	return inmates;
 }
 
 
@@ -162,11 +161,5 @@ inmateScraper.inmatesProfileTableAsJson = function( html ) {
 	return inmateProfileData;
 }
 
-inmateScraper.writeJsonToFile = function( data, file ) {
-	fs.writeFileSync('./data/'+file,JSON.stringify(data,null,"\t"),{encoding:'utf8'});
-}
-
-if ( args[2] == 'download-src' )
-	inmateScraper.downloadSrc();
-else
-	inmateScraper.refreshJson();
+exports.readAsJson = inmateScraper.readAsJson;
+exports.refreshSrc = inmateScraper.refreshSrc;

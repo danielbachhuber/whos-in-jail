@@ -8,6 +8,7 @@ var express = require('express')
   , http = require('http')
   , spawn = require('child_process').spawn
   , ejs = require('ejs')
+  , inmates = require('./inmates.js')
   , path = require('path');
 
 var app = express();
@@ -31,7 +32,7 @@ if ('development' == app.get('env')) {
 app.get('/', routes.index);
 
 app.get('/inmates.json', function(req, res) {
-	res.sendfile('./data/all.json');
+  res.json( inmates.readAsJson() );
 });
 
 var url_base = 'http://www.co.yamhill.or.us/sheriff/inmates/'
