@@ -131,10 +131,15 @@ inmateScraper.inmatesProfileTableAsJson = function( html ) {
 			for( profileKey in profilePatterns ) {
 				var regex = new RegExp( profilePatterns[profileKey] );
 				var profileVar = regex.exec(profileDetails);
-				if ( profileVar && profileVar.length == 2 )
+				if ( profileVar && profileVar.length == 2 ) {
+					if ( 'fines' == profileKey
+						|| 'bond' == profileKey
+						|| 'bail' == profileKey )
+						profileVar[1] = parseInt( profileVar[1].replace( /,/, '' ) );
 					inmateProfileData[profileKey] = profileVar[1];
-				else
+				} else {
 					inmateProfileData[profileKey] = '';
+				}
 			}
 
 		}
