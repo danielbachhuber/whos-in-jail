@@ -16,7 +16,9 @@
 
 			var waTable = $('#inmates-table').WATable({
 				pageSize: 20,
-				preFill: true
+				preFill: true,
+				filter:true,
+				columnPicker:true,
 			}).data('WATable');
 
 			var tableData = {
@@ -25,41 +27,53 @@
 						index: 2,
 						type: "string",
 						friendly: "Name",
+						filter: true,
                 		},
             		age: {
             			index: 3,
             			type: "number",
             			friendly: "Age",
+            			filter: true,
             			},
             		sex: {
             			index: 4,
             			type: "string",
             			friendly: "Sex",
+            			filter: true,
             			},
             		eye: {
             			index: 5,
             			type: "string",
             			friendly: "Eyes",
+            			filter: true,
+            			hidden:true,
             			},
             		hair: {
             			index: 6,
             			type: "string",
             			friendly: "Hair",
+            			filter: true,
+            			hidden:true,
             			},
             		bail: {
             			index: 7,
             			type: "number",
-            			friendly: "Bail"
+            			friendly: "Bail",
+            			filter: true,
             			},
             		fines: {
             			index: 8,
             			type: "number",
             			friendly: "Fine Amount",
+            			filter: true,
+            			hidden:true,
             			},
             		bond: {
             			index: 9,
             			type: "number",
             			friendly: "Bond Amount",
+            			filter: true,
+            			hidden:true,
             			},
             		},
 				rows: '',
