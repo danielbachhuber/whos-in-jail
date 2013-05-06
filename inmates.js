@@ -144,9 +144,13 @@ inmateScraper.inmatesProfileTableAsJson = function( html ) {
 						|| 'bond' == profileKey
 						|| 'bail' == profileKey )
 						profileVar[1] = parseInt( profileVar[1].replace( /,/, '' ) );
+					if ( 'arrest_date' == profileKey
+						|| 'book_date' == profileKey
+						|| 'scheduled_release_date' == profileKey )
+						profileVar[1] = new Date( profileVar[1] ).getTime();
 					inmateProfileData[profileKey] = profileVar[1];
 				} else {
-					inmateProfileData[profileKey] = '';
+					inmateProfileData[profileKey] = false;
 				}
 			}
 
@@ -155,7 +159,7 @@ inmateScraper.inmatesProfileTableAsJson = function( html ) {
 		// Handle charges
 		if ( $(this).find('td').eq(1).text() == 'Disposition' ) {
         	process_next = 'charge';
-        	inmateProfileData['charge'] = new Array();
+        	// inmateProfileData['charge'] = new Array();
 			return;
         }
         if ( process_next == 'charge' ) {
@@ -167,7 +171,8 @@ inmateScraper.inmatesProfileTableAsJson = function( html ) {
         	if ( charge['offense'].length == 0 )
         		return;
 
-        	inmateProfileData['charge'].push( charge );
+        	// Disabled - table doesn't use in any useful way at the moment
+        	// inmateProfileData['charge'].push( charge );
         }
 
 	});
