@@ -35,7 +35,6 @@ app.get('/inmates.json', function(req, res) {
   res.json( inmates.readAsJson() );
 });
 
-var url_base = 'http://www.co.yamhill.or.us/sheriff/inmates/'
 app.get('/update', function(req,res) {
 	inmates.refreshSrc();
 });
