@@ -35,8 +35,8 @@ app.get('/inmates.json', function(req, res) {
   res.json( inmates.readAsJson() );
 });
 
-var url_base = 'http://www.co.yamhill.or.us/sheriff/inmates/'
 app.get('/update', function(req,res) {
+  res.send('starting a scrape'); //TODO: would be better to wait until the scraper is done so we don't have to guess when we can call /inmates.json
 	inmates.refreshSrc();
 });
 

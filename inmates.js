@@ -32,19 +32,25 @@ inmateScraper.refreshSrc = function() {
 	if ( ! fs.existsSync( srcDir ) )
 		fs.mkdirSync(srcDir);
 
-	request( this.inmateUrlBase+'icurrent.htm',function( error, response, body ){
+	request( inmateScraper.inmateUrlBase+'icurrent.htm',function( error, response, body ){
 		 
 		 if ( !error && response.statusCode == 200 ) {
 
-		 	fs.writeFileSync(srcDir+'icurrent.htm',body,{encoding:'utf8'});
+		 	fs.writeFileSync(srcDir+'icurrent.htm', body);
+		 	console.log("wrote icurrent.html");
 		 	var inmates = inmateScraper.inmatesTableAsJson( body );
 		 	inmates.forEach(function(obj,i){
 		 		request( inmateScraper.inmateUrlBase+obj.file,function( error, response, body ){
 		 			if ( !error && response.statusCode == 200 ) {
-		 				fs.writeFileSync(srcDir+obj.file,body,{encoding:'utf8'});
+		 				fs.writeFileSync(srcDir+obj.file, body);
+		 				console.log("wrote "+obj.file);
+		 			} else {
+		 				console.log("ERROR downloading"+obj.file)
 		 			}
 		 		});
 		 	});
+		 } else {
+		 	console.log("error downloading icurrent.html", error, response, body);
 		 }
 	});
 }
@@ -54,7 +60,7 @@ inmateScraper.refreshSrc = function() {
  */
 inmateScraper.readAsJson = function() {
 
-	var fileData = fs.readFileSync(inmateScraper.srcDir+'icurrent.htm',{encoding:'utf8'});
+	var fileData = fs.readFileSync(inmateScraper.srcDir+'icurrent.htm');
 	if ( fileData.length == 0 )
 		return new Object;
 
@@ -65,7 +71,7 @@ inmateScraper.readAsJson = function() {
 		if ( typeof obj.file == 'undefined' )
 			return;
 
-		var inmateFileData = fs.readFileSync(inmateScraper.srcDir+obj.file,{encoding:'utf8'});
+		var inmateFileData = fs.readFileSync(inmateScraper.srcDir+obj.file);
 		var inmateProfile = inmateScraper.inmatesProfileTableAsJson( inmateFileData );
 
 		for( prop in inmateProfile ) {
