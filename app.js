@@ -32,7 +32,7 @@ if ('development' == app.get('env')) {
 app.get('/', routes.index);
 
 app.get('/inmates.json', function(req, res) {
-  res.json( inmates.readAsJson() );
+  res.jsonp( inmates.readAsJson() );
 });
 
 app.get('/update', function(req,res) {
