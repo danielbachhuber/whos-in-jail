@@ -36,6 +36,7 @@ app.get('/inmates.json', function(req, res) {
 });
 
 app.get('/update', function(req,res) {
+  res.send('starting a scrape');
 	inmates.refreshSrc();
 });
 
